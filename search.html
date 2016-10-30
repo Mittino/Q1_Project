@@ -8,6 +8,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/js/materialize.min.js"></script>
     <link rel="stylesheet" href="style.css">
     <script type="text/javascript" src="adoptions.js"></script>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <title>Adopt a Pup - Search</title>
   </head>
   <body>
@@ -26,7 +27,8 @@
       <form class="col s12" id="search" name="search">
         <div class="row valign-wrapper">
           <div class="input-field col s4">
-            <input placeholder="Enter Zip Code" type="text" class="validate" id="location" required>
+            <i class="material-icons prefix">star</i>
+            <input placeholder="Enter Zip Code (Required)" type="text" class="validate" id="location">
             <label for="Location">Search by Location</label>
           </div>
           <div class="input-field col s4 select-dropdown">
@@ -41,16 +43,16 @@
           </div>
         </div>
         <div class="row valign-wrapper">
-          <div class="input-field col s4" id="sex">
-            <select>
+          <div class="input-field col s4">
+            <select id="sex">
               <option value="" disabled selected>Sex</option>
               <option value="M">Male</option>
               <option value="F">Female</option>
             </select>
             <label for="size">Sex</label>
           </div>
-          <div class="input-field col s4" id="age">
-            <select>
+          <div class="input-field col s4">
+            <select id="age">
               <option value="" disabled selected>Age</option>
               <option value="Baby">Baby</option>
               <option value="Young">Young</option>
@@ -67,16 +69,13 @@
     </div>
 
     <div class="row">
-      <div class="col s12 m4">
+      <div class="col s12 m2">
         <div class="card small">
           <div class="card-image">
             <img>
           </div>
-          <div class="card-content">
-            <p>PUPPY NAME HERE</p>
-          </div>
           <div class="card-action">
-            <a href="#">This is a link</a>
+            <p>Dog Name</p>
           </div>
         </div>
       </div>

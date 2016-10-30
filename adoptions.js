@@ -2,17 +2,13 @@
 var apiKey = "7e3c2eb42f00b573ab85a0e4f1d4a9ca";
 
 $(document).ready(function(){
-
   $("#search").on('submit', function(event){
     event.preventDefault();
     buildData();
   });
-
   $('select').material_select();
 
-
 });
-
 
 
 function buildData(){
@@ -25,24 +21,27 @@ function buildData(){
   };
 
   var searchInput = $('#location').val();
-  var zipCode = searchInput.replace(/\D/g, '');
+  var zipCode = searchInput.replace(/\D/g, ''); //Note: zip code is required
 
   if (zipCode.length === 5){
     data.location = zipCode;
   } else {
     console.log('enter complete zip code');
-    //TODO: create Toast Msg for incomplete zip code
+    Materialize.toast('Please enter a valid zip code', 4000);
     return;
   }
-
   var size = $('#size').val();
-  console.log(size);
   if(!_.isNil(size)){
     data.size = size;
   }
-
-
-  console.log(data);
+  var sex = $('#sex').val();
+  if(!_.isNil(sex)){
+    data.sex = sex;
+  }
+  var age = $('#age').val();
+  if(!_.isNil(age)){
+    data.age = age;
+  }
   getResults(data);
 }
 
