@@ -5,7 +5,7 @@ $(document).ready(function(){
 
   $("#search").on('submit', function(event){
     event.preventDefault();
-    getResults();
+    buildData();
   });
 
   $('select').material_select();
@@ -14,7 +14,8 @@ $(document).ready(function(){
 });
 
 
-function getResults(){
+
+function buildData(){
 
   var data = {
     format: "json",
@@ -25,15 +26,27 @@ function getResults(){
 
   var searchInput = $('#location').val();
   var zipCode = searchInput.replace(/\D/g, '');
-  if (zipCode.length < 5 || zipCode.length > 5){
+
+  if (zipCode.length === 5){
+    data.location = zipCode;
+  } else {
     console.log('enter complete zip code');
     //TODO: create Toast Msg for incomplete zip code
-  } else if (zipCode.length === 5){
-    data.location = zipCode;
+    return;
   }
 
-  console.log(data);
+  var size = $('#size').val();
+  console.log(size);
+  if(!_.isNil(size)){
+    data.size = size;
+  }
 
+
+  console.log(data);
+  getResults(data);
+}
+
+function getResults(data){
   $.ajax({
     url:'http://api.petfinder.com/pet.find',
     jsonp: "callback",
