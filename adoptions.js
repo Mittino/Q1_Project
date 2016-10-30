@@ -5,7 +5,6 @@ $(document).ready(function(){
 
   $("#search").on('submit', function(event){
     event.preventDefault();
-    console.log('hello');
     getResults();
   });
 
@@ -26,23 +25,23 @@ function getResults(){
 
   var searchInput = $('#location').val();
   var zipCode = searchInput.replace(/\D/g, '');
-  console.log(zipCode);
   if (zipCode.length < 5 || zipCode.length > 5){
     console.log('enter complete zip code');
+    //TODO: create Toast Msg for incomplete zip code
   } else if (zipCode.length === 5){
     data.location = zipCode;
   }
 
   console.log(data);
 
-  // $.ajax({
-  //   url:'http://api.petfinder.com/pet.find' + searchLocation,
-  //   jsonp: "callback",
-  //   dataType:"jsonp",
-  //   data: data,
-  //   type: 'get',
-  //   success: function(data){
-  //     console.log(data);
-  //   }
-  // });
+  $.ajax({
+    url:'http://api.petfinder.com/pet.find',
+    jsonp: "callback",
+    dataType:"jsonp",
+    data: data,
+    type: 'get',
+    success: function(data){
+      console.log(data);
+    }
+  });
 }
