@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8">
     <script   src="https://code.jquery.com/jquery-3.1.1.min.js"   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="   crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/lodash/4.16.3/lodash.min.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/css/materialize.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/js/materialize.min.js"></script>
     <link rel="stylesheet" href="style.css">
@@ -24,18 +25,50 @@
     <div class="center row">
       <form class="col s12" id="search" name="search">
         <div class="row valign-wrapper">
-          <div class="input-field col s6">
-            <input placeholder="Search" type="text" class="validate">
-            <label for="first_name"></label>
+          <div class="input-field col s4">
+            <input placeholder="Enter Zip Code" type="text" class="validate" id="location">
+            <label for="Location">Search by Location</label>
           </div>
-          <button type="submit" class="waves-effect waves-light btn valign" >button</button>
+          <div class="input-field col s4 select-dropdown" id="size">
+            <select>
+              <option value="" disabled selected>Search by Size</option>
+              <option value="S">Small</option>
+              <option value="M">Medium</option>
+              <option value="L">Large</option>
+              <option value="XL">Extra Large</option>
+              </select>
+            <label for="size">Dog Size</label>
+          </div>
+        </div>
+        <div class="row valign-wrapper">
+          <div class="input-field col s4" id="sex">
+            <select>
+              <option value="" disabled selected>Sex</option>
+              <option value="M">Male</option>
+              <option value="F">Female</option>
+            </select>
+            <label for="size">Sex</label>
+          </div>
+          <div class="input-field col s4" id="age">
+            <select>
+              <option value="" disabled selected>Age</option>
+              <option value="Baby">Baby</option>
+              <option value="Young">Young</option>
+              <option value="Adult">Adult</option>
+              <option value="Senior">senior</option>
+              </select>
+            <label for="size">Age</label>
+          </div>
+        </div>
+        <div class="row">
+          <button type="submit" class="waves-effect waves-light btn valign" >Search</button>
         </div>
       </form>
     </div>
 
     <div class="row">
-      <div class="col s12 m7">
-        <div class="card">
+      <div class="col s12 m4">
+        <div class="card small">
           <div class="card-image">
             <img>
           </div>
