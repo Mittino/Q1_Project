@@ -63,9 +63,26 @@ var petData;
 
 function buildCards(pets){
   var i;
+  var x;
+  var name;
   console.log(pets);
   for (i=0; i<pets.length; i++){
-    $('#petCards').append('<p>Test</p>');
+
+    $('#petCards').append(
+      '<div class="col s12 m2">'+
+        '<div class="card small">'+
+          '<div class="card-image">'+
+            '<img>'+
+          '</div>' +
+          '<div class="card-content">'+
+          '</div>'+
+          '<div class="card-action">'+
+          '<p>' + pets.name+ '</p>'+
+          '</div>' +
+        '</div>'+
+      '</div>');
+
+
   }
 
 }
