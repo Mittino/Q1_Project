@@ -53,7 +53,19 @@ function getResults(data){
     data: data,
     type: 'get',
     success: function(data){
-      console.log(data);
+      petData = data.petfinder.pets.pet;
+      buildCards(petData);
     }
   });
+}
+
+var petData;
+
+function buildCards(pets){
+  var i;
+  console.log(pets);
+  for (i=0; i<pets.length; i++){
+    $('#petCards').append('<p>Test</p>');
+  }
+
 }
