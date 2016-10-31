@@ -53,6 +53,7 @@ function getResults(data){
     data: data,
     type: 'get',
     success: function(data){
+      petData = [];
       petData = data.petfinder.pets.pet;
       buildCards(petData);
     }
@@ -65,15 +66,23 @@ function buildCards(pets){
   var i;
   var j;
   var photo;
+  var dogPhotoDisplay;
+  console.log(pets);
+  $('#petCards').empty();
 
   for (i=0; i<pets.length; i++){
+    if (pets[i].media.photos !== undefined){
     photo = pets[i].media.photos.photo;
+  } else{
+    photo = "photo unavailable";
+  }
     console.log(photo);
+
     $('#petCards').append(
       '<div class="col s12 m2">'+
         '<div class="card small">'+
           '<div class="card-image">'+
-            '<img>' +
+            '<img src=' + dogPhotoDisplay + '>' +
           '</div>' +
           '<div class="card-content">'+
           '</div>'+
@@ -84,9 +93,11 @@ function buildCards(pets){
       '</div>');
 
       for (j=0; j<photo.length; j++){
-        console.log(photo[j].$t);
+        if (photo.length > 0){
+        dogPhotoDisplay= photo[3].$t;
       }
 
-  }
+    }
 
+  }
 }
