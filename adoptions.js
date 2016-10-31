@@ -7,7 +7,7 @@ $(document).ready(function(){
     buildData();
   });
   $('select').material_select();
-
+  $('.modal-trigger').leanModal();
 });
 
 
@@ -84,20 +84,29 @@ function buildCards(pets){
           '<div class="card-image">'+
             '<img src=' + dogPhotoDisplay + '>' +
           '</div>' +
-          '<div class="card-content">'+
+
+          '<a class="waves-effect waves-light btn modal-trigger" href="#modal' + i + '">' +
+            pets[i].name.$t +
+          '</a>' +
+            '<div id="modal' + i + '" class="modal">' +
+              '<div class="modal-content">'+
+                '<h4>' + pets[i].name.$t + '</h4>' +
+                '<p> Description: ' + pets[i].description.$t + '</p>' +
+                '<p> Contact: ' + pets[i].contact.email.$t + '</p>' +
+              '</div>' +
+            '</div>' +
           '</div>'+
-          '<div class="card-action">'+
-          '<p>' + pets[i].name.$t+ '</p>'+
-          '</div>' +
         '</div>'+
       '</div>');
 
       for (j=0; j<photo.length; j++){
         if (photo.length > 0){
-        dogPhotoDisplay= photo[3].$t;
+        dogPhotoDisplay= photo[2].$t;
       }
 
     }
 
   }
+  $('.modal-trigger').leanModal();
+
 }
