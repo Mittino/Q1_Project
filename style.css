@@ -1,1 +1,30 @@
 
+.modal-trigger{
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  height: 25%;
+  background-color: #F98407;
+  color: #FFF1D0;
+}
+.btn:hover{
+  background-color: #5B5B5B;
+  color: #FFF1D0;
+}
+.btn{
+  background-color: #F98407;
+  color: #FFF1D0;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 16px;
+}
+.page-footer{
+  background-color: #086788;
+}
+.nav-wrapper{
+  background-color: #086788;
+  color: #FFF1D0;
+}
+.card-image{
+
+  height: 100%
+}
