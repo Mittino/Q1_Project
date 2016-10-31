@@ -63,25 +63,29 @@ var petData;
 
 function buildCards(pets){
   var i;
-  var x;
-  var name;
-  console.log(pets);
-  for (i=0; i<pets.length; i++){
+  var j;
+  var photo;
 
+  for (i=0; i<pets.length; i++){
+    photo = pets[i].media.photos.photo;
+    console.log(photo);
     $('#petCards').append(
       '<div class="col s12 m2">'+
         '<div class="card small">'+
           '<div class="card-image">'+
-            '<img>'+
+            '<img>' +
           '</div>' +
           '<div class="card-content">'+
           '</div>'+
           '<div class="card-action">'+
-          '<p>' + pets.name+ '</p>'+
+          '<p>' + pets[i].name.$t+ '</p>'+
           '</div>' +
         '</div>'+
       '</div>');
 
+      for (j=0; j<photo.length; j++){
+        console.log(photo[j].$t);
+      }
 
   }
 
