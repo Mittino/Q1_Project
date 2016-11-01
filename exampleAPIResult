@@ -1,0 +1,3308 @@
+{
+  "@encoding": "iso-8859-1",
+  "@version": "1.0",
+  "petfinder": {
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "lastOffset": {
+      "$t": "25"
+    },
+    "pets": {
+      "pet": [
+        {
+          "options": {
+            "option": [
+              {
+                "$t": "hasShots"
+              },
+              {
+                "$t": "altered"
+              },
+              {
+                "$t": "housetrained"
+              }
+            ]
+          },
+          "status": {
+            "$t": "A"
+          },
+          "contact": {
+            "phone": {
+              "$t": "www.summitdogrescue.org "
+            },
+            "state": {
+              "$t": "CO"
+            },
+            "address2": {
+              "$t": "www.summitdogrescue.org"
+            },
+            "email": {
+              "$t": "summitdogrescue@yahoo.com"
+            },
+            "city": {
+              "$t": "Boulder"
+            },
+            "zip": {
+              "$t": "80302"
+            },
+            "fax": {},
+            "address1": {
+              "$t": "PO BOX 17693"
+            }
+          },
+          "age": {
+            "$t": "Young"
+          },
+          "size": {
+            "$t": "M"
+          },
+          "media": {
+            "photos": {
+              "photo": [
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/35833496/1/?bust=1470070830&width=60&-pnt.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/35833496/1/?bust=1470070830&width=95&-fpm.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/35833496/1/?bust=1470070830&width=500&-x.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/35833496/1/?bust=1470070830&width=300&-pn.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/35833496/1/?bust=1470070830&width=50&-t.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/35833496/2/?bust=1470070830&width=60&-pnt.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/35833496/2/?bust=1470070830&width=95&-fpm.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/35833496/2/?bust=1470070830&width=500&-x.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/35833496/2/?bust=1470070830&width=300&-pn.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/35833496/2/?bust=1470070830&width=50&-t.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/35833496/3/?bust=1470070831&width=60&-pnt.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/35833496/3/?bust=1470070831&width=95&-fpm.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/35833496/3/?bust=1470070831&width=500&-x.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/35833496/3/?bust=1470070831&width=300&-pn.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/35833496/3/?bust=1470070831&width=50&-t.jpg",
+                  "@id": "3"
+                }
+              ]
+            }
+          },
+          "id": {
+            "$t": "35833496"
+          },
+          "shelterPetId": {},
+          "breeds": {
+            "breed": [
+              {
+                "$t": "Australian Shepherd"
+              },
+              {
+                "$t": "Retriever"
+              }
+            ]
+          },
+          "name": {
+            "$t": "COURTESY POST - Sara"
+          },
+          "sex": {
+            "$t": "F"
+          },
+          "description": {
+            "$t": "Hi! I'm Sara!  I was rescued down south of the border and brought all the way here to Colorado where some awesome people are trying to find me a good home! They say I'm about two years old, a female aussie shepherd mix, that they haven't yet tested me with cats in the home, but for sure I'm really good with other dogs and with kids. \n\nHere's a description of me written by my rescuer Suzanne, who has a rescue sanctuary in Oaxaca, Mexico:\n\nSara is a survivor and an inspiration. She was abandoned when she was about two months old, and a few days later, fell ill with distemper. Thanks to a diet of meat, good vitamins and lots of love, Sara slowly recovered, but the illness left her a little crooked with a strong, full-body twitch. \n\n\"Sara is at her best when running and playing with her dog buddies. She loves the water (even putting her front feet in her water bowl) and also playing tug-of-war, napping in the shade and having her belly rubbed. Sara's body doesn't always move the way she could like it to, and sometimes she needs a little help. Having quick access to the outside is important, because When she's gotta go, she's gotta go.\nSurprisingly, however, when Sara 'warms up' she is remarkably agile and she will happily accompany you on your run or bike ride.\n\nJust under two years old, Sara will sometimes act like a puppy and drag out one of your socks or a piece of paper to chew on. She's adventurous but always 'checks in'. She's intelligent, obedient, willing to try new things and surely capable of doing much more, given some training. \n\nNothing stops this girl, though, and if you're looking for a sweet companion to inspire you with her courage and give you lots of love in return for your care and attention, please get to know Sarah."
+          },
+          "mix": {
+            "$t": "yes"
+          },
+          "shelterId": {
+            "$t": "CO309"
+          },
+          "lastUpdate": {
+            "$t": "2016-09-14T03:58:19Z"
+          },
+          "animal": {
+            "$t": "Dog"
+          }
+        },
+        {
+          "options": {},
+          "status": {
+            "$t": "A"
+          },
+          "contact": {
+            "phone": {
+              "$t": "www.summitdogrescue.org "
+            },
+            "state": {
+              "$t": "CO"
+            },
+            "address2": {
+              "$t": "www.summitdogrescue.org"
+            },
+            "email": {
+              "$t": "summitdogrescue@yahoo.com"
+            },
+            "city": {
+              "$t": "Boulder"
+            },
+            "zip": {
+              "$t": "80302"
+            },
+            "fax": {},
+            "address1": {
+              "$t": "PO BOX 17693"
+            }
+          },
+          "age": {
+            "$t": "Baby"
+          },
+          "size": {
+            "$t": "M"
+          },
+          "media": {
+            "photos": {
+              "photo": [
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/36352628/1/?bust=1475112212&width=60&-pnt.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/36352628/1/?bust=1475112212&width=95&-fpm.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/36352628/1/?bust=1475112212&width=500&-x.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/36352628/1/?bust=1475112212&width=300&-pn.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/36352628/1/?bust=1475112212&width=50&-t.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/36352628/2/?bust=1475112213&width=60&-pnt.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/36352628/2/?bust=1475112213&width=95&-fpm.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/36352628/2/?bust=1475112213&width=500&-x.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/36352628/2/?bust=1475112213&width=300&-pn.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/36352628/2/?bust=1475112213&width=50&-t.jpg",
+                  "@id": "2"
+                }
+              ]
+            }
+          },
+          "id": {
+            "$t": "36352628"
+          },
+          "shelterPetId": {},
+          "breeds": {
+            "breed": {
+              "$t": "Australian Cattle Dog (Blue Heeler)"
+            }
+          },
+          "name": {
+            "$t": "Courtesy Post - Miss Kitty"
+          },
+          "sex": {
+            "$t": "F"
+          },
+          "description": {
+            "$t": "Miss Kitty is the smallest of the litter of 7. She is a cutie and the first one to have her ears stand up. She is calm and sweet. We are thinking she will be about the size of her mama, 30lbs. Kitty's birthdate is August 9th and she will be ready for adoption the first part of October.\n\nMiss Kitty is a courtesy post for Western Australian Shepherd Rescue.  \n\nhttp://www.westernaustralianshepherdrescue.com"
+          },
+          "mix": {
+            "$t": "no"
+          },
+          "shelterId": {
+            "$t": "CO309"
+          },
+          "lastUpdate": {
+            "$t": "2016-09-29T01:23:33Z"
+          },
+          "animal": {
+            "$t": "Dog"
+          }
+        },
+        {
+          "options": {
+            "option": [
+              {
+                "$t": "hasShots"
+              },
+              {
+                "$t": "altered"
+              },
+              {
+                "$t": "housetrained"
+              }
+            ]
+          },
+          "status": {
+            "$t": "A"
+          },
+          "contact": {
+            "phone": {
+              "$t": "www.summitdogrescue.org "
+            },
+            "state": {
+              "$t": "CO"
+            },
+            "address2": {
+              "$t": "www.summitdogrescue.org"
+            },
+            "email": {
+              "$t": "summitdogrescue@yahoo.com"
+            },
+            "city": {
+              "$t": "Boulder"
+            },
+            "zip": {
+              "$t": "80302"
+            },
+            "fax": {},
+            "address1": {
+              "$t": "PO BOX 17693"
+            }
+          },
+          "age": {
+            "$t": "Young"
+          },
+          "size": {
+            "$t": "M"
+          },
+          "media": {
+            "photos": {
+              "photo": [
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/35431109/1/?bust=1470584800&width=60&-pnt.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/35431109/1/?bust=1470584800&width=95&-fpm.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/35431109/1/?bust=1470584800&width=500&-x.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/35431109/1/?bust=1470584800&width=300&-pn.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/35431109/1/?bust=1470584800&width=50&-t.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/35431109/2/?bust=1470584800&width=60&-pnt.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/35431109/2/?bust=1470584800&width=95&-fpm.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/35431109/2/?bust=1470584800&width=500&-x.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/35431109/2/?bust=1470584800&width=300&-pn.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/35431109/2/?bust=1470584800&width=50&-t.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/35431109/3/?bust=1470584801&width=60&-pnt.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/35431109/3/?bust=1470584801&width=95&-fpm.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/35431109/3/?bust=1470584801&width=500&-x.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/35431109/3/?bust=1470584801&width=300&-pn.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/35431109/3/?bust=1470584801&width=50&-t.jpg",
+                  "@id": "3"
+                }
+              ]
+            }
+          },
+          "id": {
+            "$t": "35431109"
+          },
+          "shelterPetId": {},
+          "breeds": {
+            "breed": [
+              {
+                "$t": "Shepherd"
+              },
+              {
+                "$t": "German Shepherd Dog"
+              }
+            ]
+          },
+          "name": {
+            "$t": "Narnia - Adorable young girl!!"
+          },
+          "sex": {
+            "$t": "F"
+          },
+          "description": {
+            "$t": "Narnia is a darling 6 month old  puppy. \n\nNarnia is probably a great running or agility candidate.  She loves water, and has happily joined along on shorter hikes with her foster family.  She has been doing great sleeping through the night is  house-trained - this is one smart girl! She loves people and enjoys training, and using her brilliant mind and being playful. She is bouncy and joyful and a pleasure to be around. \n\nThis sweet girl has been going to puppy classes and knows quite a few basics - sit, down, touch!  She enjoys playing with other dogs and going on walks. \n\nShe loves to play with toys and be with her people. She enjoys walks and snuggle time. \n\n\n\nFor more information on our process please visit SummitDogRescue.org"
+          },
+          "mix": {
+            "$t": "yes"
+          },
+          "shelterId": {
+            "$t": "CO309"
+          },
+          "lastUpdate": {
+            "$t": "2016-09-27T23:30:58Z"
+          },
+          "animal": {
+            "$t": "Dog"
+          }
+        },
+        {
+          "options": {
+            "option": {
+              "$t": "hasShots"
+            }
+          },
+          "status": {
+            "$t": "A"
+          },
+          "contact": {
+            "phone": {},
+            "state": {
+              "$t": "CO"
+            },
+            "address2": {},
+            "email": {
+              "$t": "farfelsrescue@gmail.com"
+            },
+            "city": {
+              "$t": "Boulder"
+            },
+            "zip": {
+              "$t": "80302"
+            },
+            "fax": {},
+            "address1": {
+              "$t": "906 Pearl Street"
+            }
+          },
+          "age": {
+            "$t": "Young"
+          },
+          "size": {
+            "$t": "M"
+          },
+          "media": {
+            "photos": {
+              "photo": [
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/36390341/1/?bust=1476054127&width=60&-pnt.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/36390341/1/?bust=1476054127&width=95&-fpm.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/36390341/1/?bust=1476054127&width=500&-x.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/36390341/1/?bust=1476054127&width=300&-pn.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/36390341/1/?bust=1476054127&width=50&-t.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/36390341/2/?bust=1476054127&width=60&-pnt.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/36390341/2/?bust=1476054127&width=95&-fpm.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/36390341/2/?bust=1476054127&width=500&-x.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/36390341/2/?bust=1476054127&width=300&-pn.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/36390341/2/?bust=1476054127&width=50&-t.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/36390341/3/?bust=1476054128&width=60&-pnt.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/36390341/3/?bust=1476054128&width=95&-fpm.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/36390341/3/?bust=1476054128&width=500&-x.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/36390341/3/?bust=1476054128&width=300&-pn.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/36390341/3/?bust=1476054128&width=50&-t.jpg",
+                  "@id": "3"
+                }
+              ]
+            }
+          },
+          "id": {
+            "$t": "36390341"
+          },
+          "shelterPetId": {},
+          "breeds": {
+            "breed": {
+              "$t": "Australian Cattle Dog (Blue Heeler)"
+            }
+          },
+          "name": {
+            "$t": "Miley"
+          },
+          "sex": {
+            "$t": "F"
+          },
+          "description": {
+            "$t": "Australian Cattle Dogs (and Blue Heelers) are a perfect choice for those who are searching for an extremely smart and loyal family dog. Of utmost importance...they're famous for their great temperaments and extremely loving and snuggly ways.  They're known to be trustworthy and gentle with family members and other family pets. Since herding dogs require exercise and absolutely love being with their people...if a hike is the order of the day - count them in!  These dogs are known to run joyfully and energetically through the Colorado mountains...and then crash on the couch snuggling close to their favorite humans and canines. \n\nMiley's sweet nature is just waiting to be enjoyed and appreciated...she makes close playmates everywhere she goes. Miley is outgoing and social and that means everyone she meets ultimately becomes a friend.  You know when a loved one approaches, Miley's tail starts the greeting and it wiggles up through her entire body ending into a smile.  And if a spot on the couch is available, up Miley goes to cuddle and snuggle and let you know the level of her devotion.  Miley is such a wonderful being...we think she represents the best qualities of the herding dog breed.   At about 11/2-2 years old and 28 lbs,  Miley is leaving behind the neglect and lack of love that made up her early life. She has become a fuzzy ball of good-will that loves to please - the happier her family is with her behavior, the more she shines with her accomplishments.  We would like to see Miley in a home that includes her in family time and activities...she's very social and would thrive in a family that truly loves her and considers her a very important family member.  Miley would be a wonderful companion for retirees who have the time and desire to be best friends with a truly adorable young girl. Miley would also do well with a family with gentle, dog-loving kids who want to make her a true member of the family.  Miley doesn't require another dog to be happy...but does enjoy her canine relationships with kind and gentle dogs.\n\nMiley will be arriving on transport in Boulder on Saturday 10/7/16.  Applications are currently being accepted and can be found at http://farfelsrescue.com/adoption/.  If you're interested in this sweet,  cuddly and super-smart pup, please fill out and return to farfelsapps@gmail.com, fax to 303-443-7730 or mail a hard copy to Farfel's Farm  906 Pearl Street  Boulder, CO 80302."
+          },
+          "mix": {
+            "$t": "no"
+          },
+          "shelterId": {
+            "$t": "CO408"
+          },
+          "lastUpdate": {
+            "$t": "2016-10-09T23:02:27Z"
+          },
+          "animal": {
+            "$t": "Dog"
+          }
+        },
+        {
+          "options": {
+            "option": [
+              {
+                "$t": "hasShots"
+              },
+              {
+                "$t": "altered"
+              },
+              {
+                "$t": "housetrained"
+              }
+            ]
+          },
+          "status": {
+            "$t": "A"
+          },
+          "contact": {
+            "phone": {
+              "$t": "www.summitdogrescue.org "
+            },
+            "state": {
+              "$t": "CO"
+            },
+            "address2": {
+              "$t": "www.summitdogrescue.org"
+            },
+            "email": {
+              "$t": "summitdogrescue@yahoo.com"
+            },
+            "city": {
+              "$t": "Boulder"
+            },
+            "zip": {
+              "$t": "80302"
+            },
+            "fax": {},
+            "address1": {
+              "$t": "PO BOX 17693"
+            }
+          },
+          "age": {
+            "$t": "Young"
+          },
+          "size": {
+            "$t": "M"
+          },
+          "media": {
+            "photos": {
+              "photo": [
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/36352486/1/?bust=1475111569&width=60&-pnt.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/36352486/1/?bust=1475111569&width=95&-fpm.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/36352486/1/?bust=1475111569&width=500&-x.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/36352486/1/?bust=1475111569&width=300&-pn.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/36352486/1/?bust=1475111569&width=50&-t.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/36352486/2/?bust=1475730024&width=60&-pnt.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/36352486/2/?bust=1475730024&width=95&-fpm.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/36352486/2/?bust=1475730024&width=500&-x.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/36352486/2/?bust=1475730024&width=300&-pn.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/36352486/2/?bust=1475730024&width=50&-t.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/36352486/3/?bust=1475111571&width=60&-pnt.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/36352486/3/?bust=1475111571&width=95&-fpm.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/36352486/3/?bust=1475111571&width=500&-x.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/36352486/3/?bust=1475111571&width=300&-pn.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/36352486/3/?bust=1475111571&width=50&-t.jpg",
+                  "@id": "3"
+                }
+              ]
+            }
+          },
+          "id": {
+            "$t": "36352486"
+          },
+          "shelterPetId": {},
+          "breeds": {
+            "breed": [
+              {
+                "$t": "Border Collie"
+              },
+              {
+                "$t": "Cattle Dog"
+              }
+            ]
+          },
+          "name": {
+            "$t": "Urgent!!! Espresso"
+          },
+          "sex": {
+            "$t": "M"
+          },
+          "description": {
+            "$t": "Meet Espresso! This handsome, medium-sized Border Collie/Lab mix sweetheart is looking for a new home due to both of his owners having health issues. They love him dearly but are worried that if something happened to them he would end up in a shelter for months on end, so they are looking for the perfect new home. ?\n\nEspresso is 38 lbs and about 7 years old. He is a energetic, bright, happy, playful and intelligent dog who loves his owners and is very focused on them. He barks to announce people at the door but does not bark after that. \n\nHe has lived indoors and is very well-trained. He loves chasing squirrels, going for frequent walks, and would make an excellent flyball or agility companion.\n\nIs Expresso the perfect new forever companion for you? If so email newfylove@yahoo.com ASAP!"
+          },
+          "mix": {
+            "$t": "yes"
+          },
+          "shelterId": {
+            "$t": "CO309"
+          },
+          "lastUpdate": {
+            "$t": "2016-10-06T05:00:24Z"
+          },
+          "animal": {
+            "$t": "Dog"
+          }
+        },
+        {
+          "options": {
+            "option": [
+              {
+                "$t": "hasShots"
+              },
+              {
+                "$t": "altered"
+              }
+            ]
+          },
+          "status": {
+            "$t": "A"
+          },
+          "contact": {
+            "phone": {},
+            "state": {
+              "$t": "CO"
+            },
+            "address2": {},
+            "email": {
+              "$t": "farfelsrescue@gmail.com"
+            },
+            "city": {
+              "$t": "Boulder"
+            },
+            "zip": {
+              "$t": "80302"
+            },
+            "fax": {},
+            "address1": {
+              "$t": "906 Pearl Street"
+            }
+          },
+          "age": {
+            "$t": "Baby"
+          },
+          "size": {
+            "$t": "M"
+          },
+          "media": {
+            "photos": {
+              "photo": [
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/36305230/1/?bust=1476203503&width=60&-pnt.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/36305230/1/?bust=1476203503&width=95&-fpm.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/36305230/1/?bust=1476203503&width=500&-x.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/36305230/1/?bust=1476203503&width=300&-pn.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/36305230/1/?bust=1476203503&width=50&-t.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/36305230/2/?bust=1476203503&width=60&-pnt.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/36305230/2/?bust=1476203503&width=95&-fpm.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/36305230/2/?bust=1476203503&width=500&-x.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/36305230/2/?bust=1476203503&width=300&-pn.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/36305230/2/?bust=1476203503&width=50&-t.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/36305230/3/?bust=1476203504&width=60&-pnt.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/36305230/3/?bust=1476203504&width=95&-fpm.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/36305230/3/?bust=1476203504&width=500&-x.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/36305230/3/?bust=1476203504&width=300&-pn.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/36305230/3/?bust=1476203504&width=50&-t.jpg",
+                  "@id": "3"
+                }
+              ]
+            }
+          },
+          "id": {
+            "$t": "36305230"
+          },
+          "shelterPetId": {},
+          "breeds": {
+            "breed": [
+              {
+                "$t": "Labrador Retriever"
+              },
+              {
+                "$t": "Border Collie"
+              }
+            ]
+          },
+          "name": {
+            "$t": "Millie-ADOPTION PENDING"
+          },
+          "sex": {
+            "$t": "F"
+          },
+          "description": {
+            "$t": "There's nothing quite like puppy energy and silliness...and then they lie quietly on your shoulder breathing their warm baby breath. They're so pure and vulnerable that it's unbearable to think of them in a high-kill shelter.\n\nMillie, at only 14- weeks old and about 7 lbs (is estimated to be full grown at about 30 - 35 lbs), was facing the eend of her life before it ever began. Farfel's Texas rescuers are compassionate and loving and couldn't turn their back on this puppy...they rescued Millie just in time. This sweet and engaging Lab mix is starting out with great energy...the excellent results of her temperament-testing ended with a transport ticket to Colorado and a new life. \n\nMillie is also incredibly beautiful...with the gorgeous markings and a mask of chocolate and fawn that have come out since she received a good, sudsy bath after her release from the shelter. \n\nMillie is appropriately playful and inquisitive for her young age.  She's so smart and very engaging...so typical of a Lab mix. She's also bright and so loving...clearly having no memory of her scary start. Since Millie is just a baby, she's a blank slate just waiting for a kind and patient human to show her the way.  Millie has all the potential in the world to be an awesome companion - she will form firm bonds with her family (as well as other dogs and humans) and learn positive socialization skills through Puppy Socialization Class followed by positive reinforcement group Obedience Classes.  It does take time and commitment...yet pays off a thousand times over when you have a dog that can accompany you in the world with appropriate behavior.  \n\nWe're open to Millie finding her forever home with a very active retired couple or individual with lots of energy to train and enjoy a puppy.  Angie is great with children as well but we would prefer to place her in a home with older kids that can participate in a gentle yet consistent training regimen.\n \nMillie will be arriving on transport in Boulder on 10/7/16.  If interested in this adorable and fun-loving best friend, please fill out an application at http://farfelsrescue.com/adoption/ and submit to farfelsapps@gmail.com or fax to 303-443-7730."
+          },
+          "mix": {
+            "$t": "yes"
+          },
+          "shelterId": {
+            "$t": "CO408"
+          },
+          "lastUpdate": {
+            "$t": "2016-10-16T14:50:38Z"
+          },
+          "animal": {
+            "$t": "Dog"
+          }
+        },
+        {
+          "options": {
+            "option": [
+              {
+                "$t": "hasShots"
+              },
+              {
+                "$t": "altered"
+              },
+              {
+                "$t": "housetrained"
+              }
+            ]
+          },
+          "status": {
+            "$t": "A"
+          },
+          "contact": {
+            "phone": {},
+            "state": {
+              "$t": "CO"
+            },
+            "address2": {},
+            "email": {
+              "$t": "farfelsrescue@gmail.com"
+            },
+            "city": {
+              "$t": "Boulder"
+            },
+            "zip": {
+              "$t": "80302"
+            },
+            "fax": {},
+            "address1": {
+              "$t": "906 Pearl Street"
+            }
+          },
+          "age": {
+            "$t": "Young"
+          },
+          "size": {
+            "$t": "M"
+          },
+          "media": {
+            "photos": {
+              "photo": [
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/36508859/1/?bust=1476802792&width=60&-pnt.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/36508859/1/?bust=1476802792&width=95&-fpm.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/36508859/1/?bust=1476802792&width=500&-x.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/36508859/1/?bust=1476802792&width=300&-pn.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/36508859/1/?bust=1476802792&width=50&-t.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/36508859/2/?bust=1476802792&width=60&-pnt.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/36508859/2/?bust=1476802792&width=95&-fpm.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/36508859/2/?bust=1476802792&width=500&-x.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/36508859/2/?bust=1476802792&width=300&-pn.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/36508859/2/?bust=1476802792&width=50&-t.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/36508859/3/?bust=1476802793&width=60&-pnt.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/36508859/3/?bust=1476802793&width=95&-fpm.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/36508859/3/?bust=1476802793&width=500&-x.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/36508859/3/?bust=1476802793&width=300&-pn.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/36508859/3/?bust=1476802793&width=50&-t.jpg",
+                  "@id": "3"
+                }
+              ]
+            }
+          },
+          "id": {
+            "$t": "36508859"
+          },
+          "shelterPetId": {},
+          "breeds": {
+            "breed": [
+              {
+                "$t": "English Springer Spaniel"
+              },
+              {
+                "$t": "Flat-coated Retriever"
+              }
+            ]
+          },
+          "name": {
+            "$t": "Bean"
+          },
+          "sex": {
+            "$t": "F"
+          },
+          "description": {
+            "$t": "What a sweet and kind English Springer Spaniel mix our Bean is!  At 2.5 - 3 years old and just about 39 lbs, Bean is an incredibly beautiful girl. We all know that Bean has arrived when we see the wag that starts at her tail and becomes a full-blown body wiggle.. She is initially cautious...assessing the situation to make sure all is OK.  This makes perfect sense as she's been through time spent at a high-kill shelter waiting for her pending euthanasia date. When she was identified with a great temperament, Farfel's spoke up to bring Storm to safety (and a new forever family) in Colorado.  \n\nOnce Bean senses that all present are her friends, she is so warm and friendly that she always hopes every pat and kind word will turn into a friend.  She is learning to play fetch and waits expectantly...with her eyes so bright and joyful..to run off again after the ball. Bean seems to have a bit of leash experience as she's developed some skills and seems to love the experience.\n \nFarfel's Rescue has determined that Bean needs a mellow home where she is an active and important member of the family. We feel that Bean would be happiest in an only-dog home where she can get the attention that she was denied for so long. While Bean enjoys many dogs (most are larger than she is), she isn't happy with jumping smaller dogs that get into her space.  We believe that Bean would blossom  in an adult home (active retirees would be perfect) where there's a more predictable environment.  Bean would be overjoyed to spend parts of the day together either hiking or walking through the beauty of Colorado. Then at day's end, she's the ultimate snuggler and sleeps soundly through the night.\n\nIt is Bean's love affair with life and all the hardships that she's suffered along the way that motivates us to put her through Heartworm treatments..her precious life deserves to be saved!   Bean has tested low HW+ and Farfel's (with the help of Dr G in Denver) has volunteered to save this very special dog's life. The heart worm treatment process involves two series of shots followed by mellow time. We have found this to be very successful and the dogs go on to live long, happy lives.\n \nWe are seeking an adopter to lovingly care for Bean as she becomes Heartworm negative.  It's quite an easy rehab process as it only entails mellow time with soft words and belly rubs. Farfel's will pay the vet bills and provide premium food and treats for this special pup as she becomes healthily heartworm-free.    \n\nBean (like all dogs) would benefit from positive reinforcement group obedience classes that included the whole family - she is a super-smart girl who truly wants to please. Great training will give Bean the skills to be an excellent adult dog.  These type of classes will also bring out the great qualities of this English Springer Spaniel mix as well as creating a tightly-knit bonding with all family members\n.  \nBean has a beautiful coat (softest ever!) with such distinctive markings. She will therefore require periodic grooming and great nutrition to keep her cottony-soft hair healthy and matt-free.\n\nBean is currently being fostered in the Denver area.  Applications are being accepted and Meet and Greets are currently being set up. Adoption applications can be found at http://farfelsrescue.com/adoption/. If interested in this sweet and devoted companion, please fill out and return to farfelsapps@gmail.com or fax to 303-443-7730."
+          },
+          "mix": {
+            "$t": "yes"
+          },
+          "shelterId": {
+            "$t": "CO408"
+          },
+          "lastUpdate": {
+            "$t": "2016-10-18T15:20:00Z"
+          },
+          "animal": {
+            "$t": "Dog"
+          }
+        },
+        {
+          "options": {
+            "option": [
+              {
+                "$t": "hasShots"
+              },
+              {
+                "$t": "altered"
+              }
+            ]
+          },
+          "status": {
+            "$t": "A"
+          },
+          "contact": {
+            "phone": {},
+            "state": {
+              "$t": "CO"
+            },
+            "address2": {},
+            "email": {
+              "$t": "farfelsrescue@gmail.com"
+            },
+            "city": {
+              "$t": "Boulder"
+            },
+            "zip": {
+              "$t": "80302"
+            },
+            "fax": {},
+            "address1": {
+              "$t": "906 Pearl Street"
+            }
+          },
+          "age": {
+            "$t": "Baby"
+          },
+          "size": {
+            "$t": "M"
+          },
+          "media": {
+            "photos": {
+              "photo": [
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/36383029/1/?bust=1476290126&width=60&-pnt.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/36383029/1/?bust=1476290126&width=95&-fpm.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/36383029/1/?bust=1476290126&width=500&-x.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/36383029/1/?bust=1476290126&width=300&-pn.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/36383029/1/?bust=1476290126&width=50&-t.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/36383029/2/?bust=1476290126&width=60&-pnt.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/36383029/2/?bust=1476290126&width=95&-fpm.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/36383029/2/?bust=1476290126&width=500&-x.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/36383029/2/?bust=1476290126&width=300&-pn.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/36383029/2/?bust=1476290126&width=50&-t.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/36383029/3/?bust=1476290126&width=60&-pnt.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/36383029/3/?bust=1476290126&width=95&-fpm.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/36383029/3/?bust=1476290126&width=500&-x.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/36383029/3/?bust=1476290126&width=300&-pn.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/36383029/3/?bust=1476290126&width=50&-t.jpg",
+                  "@id": "3"
+                }
+              ]
+            }
+          },
+          "id": {
+            "$t": "36383029"
+          },
+          "shelterPetId": {},
+          "breeds": {
+            "breed": [
+              {
+                "$t": "Golden Retriever"
+              },
+              {
+                "$t": "Labrador Retriever"
+              }
+            ]
+          },
+          "name": {
+            "$t": "Jill-ADOPTION PENDING"
+          },
+          "sex": {
+            "$t": "F"
+          },
+          "description": {
+            "$t": "There's nothing quite like puppy energy and silliness...and then they lie quietly on your shoulder breathing their warm baby breath. They're so pure and vulnerable that it's unbearable to think of them in a high-kill shelter!  Jill, at only 14 weeks old and 14 lbs (estimated to be full grown at about 40 lbs), was                                                                                                                                facing the end of her life before it ever began. \n\nFarfel's Texas rescuers are compassionate and loving and couldn't turn their back on this puppy...they rescued Jill just in time. This sweet and engaging Golden Retriever/Labrador Retriever mix is starting out with great energy...the excellent results of her temperament-testing ended with a transport ticket to Colorado and a new life. \n\nJill is also so beautiful...with the whitest of white and the cutest golden ears... her colors have come out since she received a good, sudsy bath after her release from the shelter. \n\nJill is appropriately playful and inquisitive for her young age.  She's so smart and very engaging...so typical of a Golden/Lab mix. She's also bright and very, very loving...clearly having no memory of her scary start. Since Jill is just a baby, she's a blank slate just waiting for a kind and patient human to show her the way.  She has all the potential in the world to be an awesome companion and will form firm bonds with her family (as well as other dogs and humans) and learn positive socialization skills through Puppy Socialization Class followed by positive reinforcement group Obedience Classes.  It does take time and commitment...yet pays off a thousand times over when you have a dog that can accompany you in the world with appropriate behavior.  \n\nFarfel's is open to Jill finding her forever home with very active retirees who have lots of energy to train and enjoy a puppy.  Jill is great with children as well.. we would be open to placing our sweet puppy in a home with dog-loving kids who want to make a fuzzy pup an important member of the family.\n\nJill will be arriving on transport in Denver on Friday 10/6/16.  If interested in this very loving and fun best friend, please fill out an application at http://farfelsrescue.com/adoption/ and submit to farfelsapps@gmail.com or fax to 303-443-7730."
+          },
+          "mix": {
+            "$t": "yes"
+          },
+          "shelterId": {
+            "$t": "CO408"
+          },
+          "lastUpdate": {
+            "$t": "2016-10-21T16:42:38Z"
+          },
+          "animal": {
+            "$t": "Dog"
+          }
+        },
+        {
+          "options": {
+            "option": [
+              {
+                "$t": "hasShots"
+              },
+              {
+                "$t": "altered"
+              }
+            ]
+          },
+          "status": {
+            "$t": "A"
+          },
+          "contact": {
+            "phone": {},
+            "state": {
+              "$t": "CO"
+            },
+            "address2": {},
+            "email": {
+              "$t": "farfelsrescue@gmail.com"
+            },
+            "city": {
+              "$t": "Boulder"
+            },
+            "zip": {
+              "$t": "80302"
+            },
+            "fax": {},
+            "address1": {
+              "$t": "906 Pearl Street"
+            }
+          },
+          "age": {
+            "$t": "Baby"
+          },
+          "size": {
+            "$t": "M"
+          },
+          "media": {
+            "photos": {
+              "photo": [
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/36552993/1/?bust=1477231785&width=60&-pnt.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/36552993/1/?bust=1477231785&width=95&-fpm.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/36552993/1/?bust=1477231785&width=500&-x.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/36552993/1/?bust=1477231785&width=300&-pn.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/36552993/1/?bust=1477231785&width=50&-t.jpg",
+                  "@id": "1"
+                }
+              ]
+            }
+          },
+          "id": {
+            "$t": "36552993"
+          },
+          "shelterPetId": {},
+          "breeds": {
+            "breed": [
+              {
+                "$t": "Labrador Retriever"
+              },
+              {
+                "$t": "Poodle"
+              }
+            ]
+          },
+          "name": {
+            "$t": "Scout"
+          },
+          "sex": {
+            "$t": "M"
+          },
+          "description": {
+            "$t": "There's nothing quite like puppy energy and silliness...and then they lie quietly on your shoulder breathing their warm baby breath. They're so pure and vulnerable that it's unbearable to think of them in a high-kill, very overcrowded shelter with their euthanasia date just hours away.  \n\nScout, at just 13 weeks old and 8 lbs (estimated to be full grown at about 40 - 45 lbs), was facing the end of his life before it ever began.  Farfel's Texas rescuers are compassionate and loving and couldn't turn their back on this new puppy...they lovingly rescued Scout just in the nick of time.  Scout is starting out with great energy. The excellent results of his vetting, baby temperament-testing (and of course his cottony coat and the most adorable puppy face didn't hurt) -  resulted in a transport ticket to Colorado and a new life.\n\nThe moment Farfel's speaks up for a dog, they're immediately pulled from the scary shelter environment, brought to be vetted/temperament tested yet again..and finally to a foster home to be loved, nurtured and begin to learn about respectful house skills prior to their transport to Colorado. \n\nWhen Scout was brought to the town vet after leaving the shelter, he was identified as a Labradoodle (most likely it was his very fluffy face and more angular nose that spoke of Poodle in his DNA). There's no way that we can confirm this breed mix...we just know Scout is as smart as can be (which can speak of Poodle) while having the sweetest (and sometimes goofy) characteristics that speak of Lab. At this point, Scout is a lightly shedding guy...it's very difficult to say for certain what his adult coat will be.\n      \nScout is appropriately playful and inquisitive for his young age.  He's bright, engaging and so loving...clearly having no memory of his scary start. Since Scout is just a baby, he's a blank slate just waiting for a kind and patient human to show him the way. He has all the potential in the world to be an awesome adult companion - he would form firm bonds with his family (as well as other dogs and humans) and learn positive socialization skills through Puppy Socialization Class followed by group Obedience Classes.  It does take a bit of time and commitment...yet pays off a thousand times over when you have a dog that can accompany you in the world with appropriate behavior.\n  \nWe're open to Scout finding his forever home with a family with children (Scout loves kids of all ages and would be a fun and loyal companion). Retirees with lots of energy to train and enjoy a puppy would be great also..Scout would blossom with the attention and time that these folks can give to a dog. \n\nSince the shelter is a very scary place and not the cleanest of environments, many puppies end up with dermatitis. This is very easily cured once the pup is in a less stressful environment with regular baths and lots of great nutrition. Scout has several spots of derm...his great Texas foster is using coconut oil and medicated shampoo and is making headway on his cottony-soft coat.\n \nScout will be arriving on transport in Boulder in late October or early November.  If interested in this very sweet and fun-loving best friend, please fill out an application at http://farfelsrescue.com/adoption/ and submit to farfelsapps@gmail.com or fax to 303-443-7730."
+          },
+          "mix": {
+            "$t": "yes"
+          },
+          "shelterId": {
+            "$t": "CO408"
+          },
+          "lastUpdate": {
+            "$t": "2016-10-23T14:09:46Z"
+          },
+          "animal": {
+            "$t": "Dog"
+          }
+        },
+        {
+          "options": {
+            "option": [
+              {
+                "$t": "hasShots"
+              },
+              {
+                "$t": "altered"
+              },
+              {
+                "$t": "housetrained"
+              }
+            ]
+          },
+          "status": {
+            "$t": "A"
+          },
+          "contact": {
+            "phone": {
+              "$t": "www.summitdogrescue.org "
+            },
+            "state": {
+              "$t": "CO"
+            },
+            "address2": {
+              "$t": "www.summitdogrescue.org"
+            },
+            "email": {
+              "$t": "summitdogrescue@yahoo.com"
+            },
+            "city": {
+              "$t": "Boulder"
+            },
+            "zip": {
+              "$t": "80302"
+            },
+            "fax": {},
+            "address1": {
+              "$t": "PO BOX 17693"
+            }
+          },
+          "age": {
+            "$t": "Adult"
+          },
+          "size": {
+            "$t": "M"
+          },
+          "media": {
+            "photos": {
+              "photo": [
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/36341516/1/?bust=1475018991&width=60&-pnt.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/36341516/1/?bust=1475018991&width=95&-fpm.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/36341516/1/?bust=1475018991&width=500&-x.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/36341516/1/?bust=1475018991&width=300&-pn.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/36341516/1/?bust=1475018991&width=50&-t.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/36341516/2/?bust=1475018992&width=60&-pnt.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/36341516/2/?bust=1475018992&width=95&-fpm.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/36341516/2/?bust=1475018992&width=500&-x.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/36341516/2/?bust=1475018992&width=300&-pn.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/36341516/2/?bust=1475018992&width=50&-t.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/36341516/3/?bust=1475111180&width=60&-pnt.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/36341516/3/?bust=1475111180&width=95&-fpm.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/36341516/3/?bust=1475111180&width=500&-x.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/36341516/3/?bust=1475111180&width=300&-pn.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/36341516/3/?bust=1475111180&width=50&-t.jpg",
+                  "@id": "3"
+                }
+              ]
+            }
+          },
+          "id": {
+            "$t": "36341516"
+          },
+          "shelterPetId": {},
+          "breeds": {
+            "breed": [
+              {
+                "$t": "Border Collie"
+              },
+              {
+                "$t": "Golden Retriever"
+              }
+            ]
+          },
+          "name": {
+            "$t": "Sundance - Professional Snuggler"
+          },
+          "sex": {
+            "$t": "M"
+          },
+          "description": {
+            "$t": "Hi! I'm Sundance! They say my name is perfect for me because I'm like a beautiful ray of sunshine and I also love to dance through life --- sniffing, playing, walking, exploring --- all with joy!\n\nMy people went through some life changes recently and they had to give me up -- but on the bright side, that means I get to find a new family to love love love!\n\nI'm 4 years old and a Border Collie/Golden boy, or so they tell me. I'm housetrained, and totally fine with free roam of the house (do I sound like I'm bragging??). I'm also good with those medium-sized humans -- the rescue ladies tell me I should say 'kids over 8 years old' -- but the really tiny ones kinda make me nervous, so I need a forever home with no toddlers or small kids, please.\n\nI'm looking for a new forever family to love! And if we can go hiking and running and then snuggle lots, I would love that too! I'm also excited to meet new dog friends - sometimes other dogs make me a bit uneasy, but with your help I'll learn to open up to all kinds of new friends!\n\nSundance is a 4 year old golden/border collie mix - he loves to snuggle and hang with his humans, but also enjoys big hikes or jogging.  He was returned after 3 years for nipping the toddler in the home who grabbed him and was rambunctious. \n\nHe has more of a border collie demeanor with the sweetness of a golden - in a Golden color. \n\nHe doesn't love other dogs, and would do best in a dog free home - preferably with acreage so he doesn't have to be walked around busy streets with other dogs. \n\nHe used to be great with cats but would need someone VERY committed to letting him settle in before introducing him to their cats. Ideally a home without cats would be better \n. \n\n\nHe adores all humans age 7 and up. \n\nApply on our website; www.summitdogrescue.org\n\nIf you'd like to find out more about me and apply to adopt me, contact the nice humans at Summit Dog Rescue at www.summitdogrescue.org"
+          },
+          "mix": {
+            "$t": "yes"
+          },
+          "shelterId": {
+            "$t": "CO309"
+          },
+          "lastUpdate": {
+            "$t": "2016-10-26T21:26:19Z"
+          },
+          "animal": {
+            "$t": "Dog"
+          }
+        },
+        {
+          "options": {
+            "option": [
+              {
+                "$t": "hasShots"
+              },
+              {
+                "$t": "altered"
+              },
+              {
+                "$t": "housetrained"
+              }
+            ]
+          },
+          "status": {
+            "$t": "A"
+          },
+          "contact": {
+            "phone": {
+              "$t": "505-399-1654"
+            },
+            "state": {
+              "$t": "CO"
+            },
+            "address2": {},
+            "email": {
+              "$t": "adopt@rezdawgrescue.org"
+            },
+            "city": {
+              "$t": "Boulder"
+            },
+            "zip": {
+              "$t": "80306"
+            },
+            "fax": {},
+            "address1": {}
+          },
+          "age": {
+            "$t": "Adult"
+          },
+          "size": {
+            "$t": "M"
+          },
+          "media": {
+            "photos": {
+              "photo": [
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/36115795/1/?bust=1475285693&width=60&-pnt.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/36115795/1/?bust=1475285693&width=95&-fpm.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/36115795/1/?bust=1475285693&width=500&-x.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/36115795/1/?bust=1475285693&width=300&-pn.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/36115795/1/?bust=1475285693&width=50&-t.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/36115795/2/?bust=1475285691&width=60&-pnt.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/36115795/2/?bust=1475285691&width=95&-fpm.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/36115795/2/?bust=1475285691&width=500&-x.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/36115795/2/?bust=1475285691&width=300&-pn.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/36115795/2/?bust=1475285691&width=50&-t.jpg",
+                  "@id": "2"
+                }
+              ]
+            }
+          },
+          "id": {
+            "$t": "36115795"
+          },
+          "shelterPetId": {
+            "$t": "ps_17370922"
+          },
+          "breeds": {
+            "breed": {
+              "$t": "Shepherd"
+            }
+          },
+          "name": {
+            "$t": "Laylani"
+          },
+          "sex": {
+            "$t": "F"
+          },
+          "description": {
+            "$t": "Sweet, Friendly, beautiful blue eyes and great with other dogs. \n\nRezDawg's adoption fees cover rescue and transportation costs, spay/neuter, microchip, deworming and vaccinations to bring the animals up-to-date at their time of adoption. You save a bundle of money by adopting from a non-profitâand even more importantly, you allow RezDawg to save another animal from being euthanized. ALL funds are used to save and support the animals!"
+          },
+          "mix": {
+            "$t": "no"
+          },
+          "shelterId": {
+            "$t": "CO437"
+          },
+          "lastUpdate": {
+            "$t": "2016-09-01T09:28:52Z"
+          },
+          "animal": {
+            "$t": "Dog"
+          }
+        },
+        {
+          "options": {
+            "option": [
+              {
+                "$t": "hasShots"
+              },
+              {
+                "$t": "altered"
+              }
+            ]
+          },
+          "status": {
+            "$t": "A"
+          },
+          "contact": {
+            "phone": {
+              "$t": "505-399-1654"
+            },
+            "state": {
+              "$t": "CO"
+            },
+            "address2": {},
+            "email": {
+              "$t": "adopt@rezdawgrescue.org"
+            },
+            "city": {
+              "$t": "Boulder"
+            },
+            "zip": {
+              "$t": "80306"
+            },
+            "fax": {},
+            "address1": {}
+          },
+          "age": {
+            "$t": "Adult"
+          },
+          "size": {
+            "$t": "M"
+          },
+          "media": {
+            "photos": {
+              "photo": [
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/35856703/1/?bust=1474422251&width=60&-pnt.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/35856703/1/?bust=1474422251&width=95&-fpm.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/35856703/1/?bust=1474422251&width=500&-x.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/35856703/1/?bust=1474422251&width=300&-pn.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/35856703/1/?bust=1474422251&width=50&-t.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/35856703/2/?bust=1470265057&width=60&-pnt.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/35856703/2/?bust=1470265057&width=95&-fpm.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/35856703/2/?bust=1470265057&width=500&-x.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/35856703/2/?bust=1470265057&width=300&-pn.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/35856703/2/?bust=1470265057&width=50&-t.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/35856703/3/?bust=1470265055&width=60&-pnt.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/35856703/3/?bust=1470265055&width=95&-fpm.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/35856703/3/?bust=1470265055&width=500&-x.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/35856703/3/?bust=1470265055&width=300&-pn.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/35856703/3/?bust=1470265055&width=50&-t.jpg",
+                  "@id": "3"
+                }
+              ]
+            }
+          },
+          "id": {
+            "$t": "35856703"
+          },
+          "shelterPetId": {
+            "$t": "ps_95879698"
+          },
+          "breeds": {
+            "breed": [
+              {
+                "$t": "Hound"
+              },
+              {
+                "$t": "Australian Cattle Dog (Blue Heeler)"
+              }
+            ]
+          },
+          "name": {
+            "$t": "Princess"
+          },
+          "sex": {
+            "$t": "F"
+          },
+          "description": {
+            "$t": "Princess is a joy to be around. She has the youthful curiosity of a puppy, while having the basic manners of an adult. She loves all people, kids are her favorite, although sometimes her play can get a bit rough for the tiny ones. She is kennel trained and loves to take naps in there, but can be trusted out of it, she is fantastic in the house. She has been gentle with all of the animals in her foster home, but is still learning how to talk to other dogs. She is nervous about meeting canine friends, but she adores playing with her doggy friends once they have had their proper introductions. \n\nHer ideal family has older kids (5+), and a non-canine fur buddy or a submissive canine buddy. She knows how to keep herself entertained and would do well in an apartment as long as she gets her walks. \n\nRezDawg's adoption fees cover transportation costs, spay, and vaccinations to bring the animals up-to-date at their time of adoption. You save a bundle of money by adopting from a non-profitâand even more importantly, you allow RezDawg to save another animal from being euthanized. ALL funds are used to save and support the animals!"
+          },
+          "mix": {
+            "$t": "no"
+          },
+          "shelterId": {
+            "$t": "CO437"
+          },
+          "lastUpdate": {
+            "$t": "2016-10-12T14:04:26Z"
+          },
+          "animal": {
+            "$t": "Dog"
+          }
+        },
+        {
+          "options": {},
+          "status": {
+            "$t": "A"
+          },
+          "contact": {
+            "phone": {
+              "$t": "505-399-1654"
+            },
+            "state": {
+              "$t": "CO"
+            },
+            "address2": {},
+            "email": {
+              "$t": "adopt@rezdawgrescue.org"
+            },
+            "city": {
+              "$t": "Boulder"
+            },
+            "zip": {
+              "$t": "80306"
+            },
+            "fax": {},
+            "address1": {}
+          },
+          "age": {
+            "$t": "Adult"
+          },
+          "size": {
+            "$t": "M"
+          },
+          "media": {},
+          "id": {
+            "$t": "36482852"
+          },
+          "shelterPetId": {
+            "$t": "ps_28393130"
+          },
+          "breeds": {
+            "breed": [
+              {
+                "$t": "Border Collie"
+              },
+              {
+                "$t": "Australian Shepherd"
+              }
+            ]
+          },
+          "name": {
+            "$t": "Sedalia"
+          },
+          "sex": {
+            "$t": "F"
+          },
+          "description": {},
+          "mix": {
+            "$t": "no"
+          },
+          "shelterId": {
+            "$t": "CO437"
+          },
+          "lastUpdate": {
+            "$t": "2016-10-15T09:15:57Z"
+          },
+          "animal": {
+            "$t": "Dog"
+          }
+        },
+        {
+          "options": {
+            "option": [
+              {
+                "$t": "hasShots"
+              },
+              {
+                "$t": "altered"
+              }
+            ]
+          },
+          "status": {
+            "$t": "A"
+          },
+          "contact": {
+            "phone": {
+              "$t": "505-399-1654"
+            },
+            "state": {
+              "$t": "CO"
+            },
+            "address2": {},
+            "email": {
+              "$t": "adopt@rezdawgrescue.org"
+            },
+            "city": {
+              "$t": "Boulder"
+            },
+            "zip": {
+              "$t": "80306"
+            },
+            "fax": {},
+            "address1": {}
+          },
+          "age": {
+            "$t": "Baby"
+          },
+          "size": {
+            "$t": "M"
+          },
+          "media": {
+            "photos": {
+              "photo": [
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/36497460/1/?bust=1476668473&width=60&-pnt.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/36497460/1/?bust=1476668473&width=95&-fpm.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/36497460/1/?bust=1476668473&width=500&-x.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/36497460/1/?bust=1476668473&width=300&-pn.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/36497460/1/?bust=1476668473&width=50&-t.jpg",
+                  "@id": "1"
+                }
+              ]
+            }
+          },
+          "id": {
+            "$t": "36497460"
+          },
+          "shelterPetId": {
+            "$t": "ps_44449019"
+          },
+          "breeds": {
+            "breed": {
+              "$t": "Australian Shepherd"
+            }
+          },
+          "name": {
+            "$t": "Missy"
+          },
+          "sex": {
+            "$t": "F"
+          },
+          "description": {
+            "$t": "Cute puppy\n\nRezDawg's adoption fees cover rescue and transportation costs, spay/neuter, microchip, deworming and vaccinations to bring the animals up-to-date at their time of adoption. You save a bundle of money by adopting from a non-profitâand even more importantly, you allow RezDawg to save another animal from being euthanized. ALL funds are used to save and support the animals!"
+          },
+          "mix": {
+            "$t": "no"
+          },
+          "shelterId": {
+            "$t": "CO437"
+          },
+          "lastUpdate": {
+            "$t": "2016-10-17T01:04:56Z"
+          },
+          "animal": {
+            "$t": "Dog"
+          }
+        },
+        {
+          "options": {
+            "option": [
+              {
+                "$t": "hasShots"
+              },
+              {
+                "$t": "altered"
+              }
+            ]
+          },
+          "status": {
+            "$t": "A"
+          },
+          "contact": {
+            "phone": {
+              "$t": "505-399-1654"
+            },
+            "state": {
+              "$t": "CO"
+            },
+            "address2": {},
+            "email": {
+              "$t": "adopt@rezdawgrescue.org"
+            },
+            "city": {
+              "$t": "Boulder"
+            },
+            "zip": {
+              "$t": "80306"
+            },
+            "fax": {},
+            "address1": {}
+          },
+          "age": {
+            "$t": "Young"
+          },
+          "size": {
+            "$t": "M"
+          },
+          "media": {
+            "photos": {
+              "photo": [
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/36544363/1/?bust=1477100403&width=60&-pnt.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/36544363/1/?bust=1477100403&width=95&-fpm.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/36544363/1/?bust=1477100403&width=500&-x.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/36544363/1/?bust=1477100403&width=300&-pn.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/36544363/1/?bust=1477100403&width=50&-t.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/36544363/2/?bust=1477100404&width=60&-pnt.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/36544363/2/?bust=1477100404&width=95&-fpm.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/36544363/2/?bust=1477100404&width=500&-x.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/36544363/2/?bust=1477100404&width=300&-pn.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/36544363/2/?bust=1477100404&width=50&-t.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/36544363/3/?bust=1477100404&width=60&-pnt.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/36544363/3/?bust=1477100404&width=95&-fpm.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/36544363/3/?bust=1477100404&width=500&-x.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/36544363/3/?bust=1477100404&width=300&-pn.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/36544363/3/?bust=1477100404&width=50&-t.jpg",
+                  "@id": "3"
+                }
+              ]
+            }
+          },
+          "id": {
+            "$t": "36544363"
+          },
+          "shelterPetId": {
+            "$t": "ps_43166178"
+          },
+          "breeds": {
+            "breed": {
+              "$t": "Labrador Retriever"
+            }
+          },
+          "name": {
+            "$t": "Bonnie"
+          },
+          "sex": {
+            "$t": "F"
+          },
+          "description": {
+            "$t": "Miss Bonnie has just recently made her way to Colorado. We will update soon!\n\nOur adoption fees cover transport from a reservation or high-intake shelter, vaccinations, deworming, food, alteration, any other medical bills and microchipping for identification. Our overhead is low since we foster our animals with volunteers, so your adoption payment goes right back into helping more animals find safe homes filled with love."
+          },
+          "mix": {
+            "$t": "no"
+          },
+          "shelterId": {
+            "$t": "CO437"
+          },
+          "lastUpdate": {
+            "$t": "2016-10-22T01:04:47Z"
+          },
+          "animal": {
+            "$t": "Dog"
+          }
+        },
+        {
+          "options": {
+            "option": [
+              {
+                "$t": "hasShots"
+              },
+              {
+                "$t": "altered"
+              }
+            ]
+          },
+          "status": {
+            "$t": "A"
+          },
+          "contact": {
+            "phone": {
+              "$t": "505-399-1654"
+            },
+            "state": {
+              "$t": "CO"
+            },
+            "address2": {},
+            "email": {
+              "$t": "adopt@rezdawgrescue.org"
+            },
+            "city": {
+              "$t": "Boulder"
+            },
+            "zip": {
+              "$t": "80306"
+            },
+            "fax": {},
+            "address1": {}
+          },
+          "age": {
+            "$t": "Baby"
+          },
+          "size": {
+            "$t": "M"
+          },
+          "media": {
+            "photos": {
+              "photo": [
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/36546498/1/?bust=1477147263&width=60&-pnt.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/36546498/1/?bust=1477147263&width=95&-fpm.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/36546498/1/?bust=1477147263&width=500&-x.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/36546498/1/?bust=1477147263&width=300&-pn.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/36546498/1/?bust=1477147263&width=50&-t.jpg",
+                  "@id": "1"
+                }
+              ]
+            }
+          },
+          "id": {
+            "$t": "36546498"
+          },
+          "shelterPetId": {
+            "$t": "ps_74742149"
+          },
+          "breeds": {
+            "breed": {
+              "$t": "Shepherd"
+            }
+          },
+          "name": {
+            "$t": "Niyol"
+          },
+          "sex": {
+            "$t": "M"
+          },
+          "description": {
+            "$t": "Come meet Niyol at our adoption event!Saturday Oct 22, 201611am-3pmPetsmart Lone Tree8695 Park Meadows Dr.Lone Tree, CO 80124\n\nRezDawg's adoption fees cover rescue and transportation costs, spay/neuter, microchip, deworming and vaccinations to bring the animals up-to-date at their time of adoption. You save a bundle of money by adopting from a non-profitâand even more importantly, you allow RezDawg to save another animal from being euthanized. ALL funds are used to save and support the animals!"
+          },
+          "mix": {
+            "$t": "no"
+          },
+          "shelterId": {
+            "$t": "CO437"
+          },
+          "lastUpdate": {
+            "$t": "2016-10-22T14:05:39Z"
+          },
+          "animal": {
+            "$t": "Dog"
+          }
+        },
+        {
+          "options": {
+            "option": [
+              {
+                "$t": "hasShots"
+              },
+              {
+                "$t": "altered"
+              }
+            ]
+          },
+          "status": {
+            "$t": "A"
+          },
+          "contact": {
+            "phone": {
+              "$t": "505-399-1654"
+            },
+            "state": {
+              "$t": "CO"
+            },
+            "address2": {},
+            "email": {
+              "$t": "adopt@rezdawgrescue.org"
+            },
+            "city": {
+              "$t": "Boulder"
+            },
+            "zip": {
+              "$t": "80306"
+            },
+            "fax": {},
+            "address1": {}
+          },
+          "age": {
+            "$t": "Baby"
+          },
+          "size": {
+            "$t": "M"
+          },
+          "media": {
+            "photos": {
+              "photo": [
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/36546494/1/?bust=1477147261&width=60&-pnt.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/36546494/1/?bust=1477147261&width=95&-fpm.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/36546494/1/?bust=1477147261&width=500&-x.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/36546494/1/?bust=1477147261&width=300&-pn.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/36546494/1/?bust=1477147261&width=50&-t.jpg",
+                  "@id": "1"
+                }
+              ]
+            }
+          },
+          "id": {
+            "$t": "36546494"
+          },
+          "shelterPetId": {
+            "$t": "ps_78792620"
+          },
+          "breeds": {
+            "breed": {
+              "$t": "Shepherd"
+            }
+          },
+          "name": {
+            "$t": "Chooli"
+          },
+          "sex": {
+            "$t": "F"
+          },
+          "description": {
+            "$t": "Come meet Chooli at our adoption event!Saturday Oct 22, 201611am-3pmPetsmart Lone Tree8695 Park Meadows Dr.Lone Tree, CO 80124\n\nRezDawg's adoption fees cover rescue and transportation costs, spay/neuter, microchip, deworming and vaccinations to bring the animals up-to-date at their time of adoption. You save a bundle of money by adopting from a non-profitâand even more importantly, you allow RezDawg to save another animal from being euthanized. ALL funds are used to save and support the animals!"
+          },
+          "mix": {
+            "$t": "no"
+          },
+          "shelterId": {
+            "$t": "CO437"
+          },
+          "lastUpdate": {
+            "$t": "2016-10-22T14:05:38Z"
+          },
+          "animal": {
+            "$t": "Dog"
+          }
+        },
+        {
+          "options": {
+            "option": [
+              {
+                "$t": "hasShots"
+              },
+              {
+                "$t": "altered"
+              }
+            ]
+          },
+          "status": {
+            "$t": "A"
+          },
+          "contact": {
+            "phone": {
+              "$t": "505-399-1654"
+            },
+            "state": {
+              "$t": "CO"
+            },
+            "address2": {},
+            "email": {
+              "$t": "adopt@rezdawgrescue.org"
+            },
+            "city": {
+              "$t": "Boulder"
+            },
+            "zip": {
+              "$t": "80306"
+            },
+            "fax": {},
+            "address1": {}
+          },
+          "age": {
+            "$t": "Young"
+          },
+          "size": {
+            "$t": "M"
+          },
+          "media": {
+            "photos": {
+              "photo": [
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/35796389/1/?bust=1477147261&width=60&-pnt.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/35796389/1/?bust=1477147261&width=95&-fpm.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/35796389/1/?bust=1477147261&width=500&-x.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/35796389/1/?bust=1477147261&width=300&-pn.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/35796389/1/?bust=1477147261&width=50&-t.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/35796389/2/?bust=1469700410&width=60&-pnt.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/35796389/2/?bust=1469700410&width=95&-fpm.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/35796389/2/?bust=1469700410&width=500&-x.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/35796389/2/?bust=1469700410&width=300&-pn.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/35796389/2/?bust=1469700410&width=50&-t.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/35796389/3/?bust=1469700410&width=60&-pnt.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/35796389/3/?bust=1469700410&width=95&-fpm.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/35796389/3/?bust=1469700410&width=500&-x.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/35796389/3/?bust=1469700410&width=300&-pn.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/35796389/3/?bust=1469700410&width=50&-t.jpg",
+                  "@id": "3"
+                }
+              ]
+            }
+          },
+          "id": {
+            "$t": "35796389"
+          },
+          "shelterPetId": {
+            "$t": "ps_15520508"
+          },
+          "breeds": {
+            "breed": [
+              {
+                "$t": "Pit Bull Terrier"
+              },
+              {
+                "$t": "Cattle Dog"
+              }
+            ]
+          },
+          "name": {
+            "$t": "Ashley"
+          },
+          "sex": {
+            "$t": "F"
+          },
+          "description": {
+            "$t": "Ashley, formerly known as Allison, is a high energy, friendly pup! She always has a smile on her sweet little face. She is very curious, and very active, but calms down quite easily. She will make a fantastic companion for an active family/person with lots of outdoor hobbies. She is potty trained. She is a fast learner and could navigate the doggie door in less than a day. She knows commands 'Sit' and 'Down'. She loves to cuddle and would love a furever home where she can shower her new family with puppy kisses. She gets along well with other dogs. Ashley is great with teenagers. She is likely good with little kids but has not been around any at this foster home. In public areas, she is at ease and friendly with adults and small children. She is rambunctious and could possibly knock little ones over. She rides great in the car. \n\nAshley is currently located in Colorado Springs with her foster family.\n\nOur adoption fees cover transport from a reservation or high-intake shelter, vaccinations, deworming, food, alteration, any other medical bills and microchipping for identification. Our overhead is low since we foster our animals with volunteers, so your adoption payment goes right back into helping more animals find safe homes filled with love."
+          },
+          "mix": {
+            "$t": "no"
+          },
+          "shelterId": {
+            "$t": "CO437"
+          },
+          "lastUpdate": {
+            "$t": "2016-10-22T01:04:47Z"
+          },
+          "animal": {
+            "$t": "Dog"
+          }
+        },
+        {
+          "options": {
+            "option": [
+              {
+                "$t": "hasShots"
+              },
+              {
+                "$t": "altered"
+              }
+            ]
+          },
+          "status": {
+            "$t": "A"
+          },
+          "contact": {
+            "phone": {
+              "$t": "505-399-1654"
+            },
+            "state": {
+              "$t": "CO"
+            },
+            "address2": {},
+            "email": {
+              "$t": "adopt@rezdawgrescue.org"
+            },
+            "city": {
+              "$t": "Boulder"
+            },
+            "zip": {
+              "$t": "80306"
+            },
+            "fax": {},
+            "address1": {}
+          },
+          "age": {
+            "$t": "Adult"
+          },
+          "size": {
+            "$t": "M"
+          },
+          "media": {
+            "photos": {
+              "photo": [
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/36551038/1/?bust=1477187005&width=60&-pnt.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/36551038/1/?bust=1477187005&width=95&-fpm.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/36551038/1/?bust=1477187005&width=500&-x.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/36551038/1/?bust=1477187005&width=300&-pn.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/36551038/1/?bust=1477187005&width=50&-t.jpg",
+                  "@id": "1"
+                }
+              ]
+            }
+          },
+          "id": {
+            "$t": "36551038"
+          },
+          "shelterPetId": {
+            "$t": "ps_89015505"
+          },
+          "breeds": {
+            "breed": {
+              "$t": "Shepherd"
+            }
+          },
+          "name": {
+            "$t": "Haseya"
+          },
+          "sex": {
+            "$t": "F"
+          },
+          "description": {
+            "$t": "Haseya means \"she rises\", and like the name suggests, she is a dog who has forgiven her past and is ready for her future. \n\nShe is devoted girl who would love to spend as much time as possible with her family. She does great in the car and is making strides learning the leash. Her favorite thing in the world is squeaky toys, and she even likes to put them in her kennel for safe keeping.\n\nHaseya's ideal family would be young at heart and ready to truly have a new family member."
+          },
+          "mix": {
+            "$t": "no"
+          },
+          "shelterId": {
+            "$t": "CO437"
+          },
+          "lastUpdate": {
+            "$t": "2016-10-23T01:07:27Z"
+          },
+          "animal": {
+            "$t": "Dog"
+          }
+        },
+        {
+          "options": {},
+          "status": {
+            "$t": "A"
+          },
+          "contact": {
+            "phone": {
+              "$t": "505-399-1654"
+            },
+            "state": {
+              "$t": "CO"
+            },
+            "address2": {},
+            "email": {
+              "$t": "adopt@rezdawgrescue.org"
+            },
+            "city": {
+              "$t": "Boulder"
+            },
+            "zip": {
+              "$t": "80306"
+            },
+            "fax": {},
+            "address1": {}
+          },
+          "age": {
+            "$t": "Baby"
+          },
+          "size": {
+            "$t": "M"
+          },
+          "media": {},
+          "id": {
+            "$t": "36551037"
+          },
+          "shelterPetId": {
+            "$t": "ps_93122092"
+          },
+          "breeds": {
+            "breed": {
+              "$t": "Cattle Dog"
+            }
+          },
+          "name": {
+            "$t": "Ajei"
+          },
+          "sex": {
+            "$t": "F"
+          },
+          "description": {
+            "$t": "Ajei is a happy, smart girl who enjoys playing with her 8 brothers and sisters and mama at her foster parents' house. She is a good eater and is growing rapidly."
+          },
+          "mix": {
+            "$t": "no"
+          },
+          "shelterId": {
+            "$t": "CO437"
+          },
+          "lastUpdate": {
+            "$t": "2016-10-23T01:07:27Z"
+          },
+          "animal": {
+            "$t": "Dog"
+          }
+        },
+        {
+          "options": {
+            "option": [
+              {
+                "$t": "hasShots"
+              },
+              {
+                "$t": "altered"
+              }
+            ]
+          },
+          "status": {
+            "$t": "A"
+          },
+          "contact": {
+            "phone": {
+              "$t": "505-399-1654"
+            },
+            "state": {
+              "$t": "CO"
+            },
+            "address2": {},
+            "email": {
+              "$t": "adopt@rezdawgrescue.org"
+            },
+            "city": {
+              "$t": "Boulder"
+            },
+            "zip": {
+              "$t": "80306"
+            },
+            "fax": {},
+            "address1": {}
+          },
+          "age": {
+            "$t": "Baby"
+          },
+          "size": {
+            "$t": "M"
+          },
+          "media": {
+            "photos": {
+              "photo": [
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/36546497/1/?bust=1477147261&width=60&-pnt.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/36546497/1/?bust=1477147261&width=95&-fpm.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/36546497/1/?bust=1477147261&width=500&-x.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/36546497/1/?bust=1477147261&width=300&-pn.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/36546497/1/?bust=1477147261&width=50&-t.jpg",
+                  "@id": "1"
+                }
+              ]
+            }
+          },
+          "id": {
+            "$t": "36546497"
+          },
+          "shelterPetId": {
+            "$t": "ps_28220947"
+          },
+          "breeds": {
+            "breed": [
+              {
+                "$t": "Shepherd"
+              },
+              {
+                "$t": "Terrier"
+              }
+            ]
+          },
+          "name": {
+            "$t": "Mai"
+          },
+          "sex": {
+            "$t": "F"
+          },
+          "description": {
+            "$t": "Come meet Mai at our adoption event!Saturday Oct 22, 201611am-3pmPetsmart Lone Tree8695 Park Meadows Dr.Lone Tree, CO 80124\n\nRezDawg's adoption fees cover rescue and transportation costs, spay/neuter, microchip, deworming and vaccinations to bring the animals up-to-date at their time of adoption. You save a bundle of money by adopting from a non-profitâand even more importantly, you allow RezDawg to save another animal from being euthanized. ALL funds are used to save and support the animals!"
+          },
+          "mix": {
+            "$t": "no"
+          },
+          "shelterId": {
+            "$t": "CO437"
+          },
+          "lastUpdate": {
+            "$t": "2016-10-24T19:05:07Z"
+          },
+          "animal": {
+            "$t": "Dog"
+          }
+        },
+        {
+          "options": {
+            "option": [
+              {
+                "$t": "hasShots"
+              },
+              {
+                "$t": "altered"
+              }
+            ]
+          },
+          "status": {
+            "$t": "A"
+          },
+          "contact": {
+            "phone": {
+              "$t": "505-399-1654"
+            },
+            "state": {
+              "$t": "CO"
+            },
+            "address2": {},
+            "email": {
+              "$t": "adopt@rezdawgrescue.org"
+            },
+            "city": {
+              "$t": "Boulder"
+            },
+            "zip": {
+              "$t": "80306"
+            },
+            "fax": {},
+            "address1": {}
+          },
+          "age": {
+            "$t": "Baby"
+          },
+          "size": {
+            "$t": "M"
+          },
+          "media": {
+            "photos": {
+              "photo": [
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/36546493/1/?bust=1477147261&width=60&-pnt.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/36546493/1/?bust=1477147261&width=95&-fpm.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/36546493/1/?bust=1477147261&width=500&-x.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/36546493/1/?bust=1477147261&width=300&-pn.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/36546493/1/?bust=1477147261&width=50&-t.jpg",
+                  "@id": "1"
+                }
+              ]
+            }
+          },
+          "id": {
+            "$t": "36546493"
+          },
+          "shelterPetId": {
+            "$t": "ps_35795970"
+          },
+          "breeds": {
+            "breed": [
+              {
+                "$t": "Shepherd"
+              },
+              {
+                "$t": "Australian Cattle Dog (Blue Heeler)"
+              }
+            ]
+          },
+          "name": {
+            "$t": "Ahiga"
+          },
+          "sex": {
+            "$t": "M"
+          },
+          "description": {
+            "$t": "Come meet Ahiga at our adoption event!Saturday Oct 22, 201611am-3pmPetsmart Lone Tree8695 Park Meadows Dr.Lone Tree, CO 80124\n\nRezDawg's adoption fees cover rescue and transportation costs, spay/neuter, microchip, deworming and vaccinations to bring the animals up-to-date at their time of adoption. You save a bundle of money by adopting from a non-profitâand even more importantly, you allow RezDawg to save another animal from being euthanized. ALL funds are used to save and support the animals!"
+          },
+          "mix": {
+            "$t": "no"
+          },
+          "shelterId": {
+            "$t": "CO437"
+          },
+          "lastUpdate": {
+            "$t": "2016-10-24T19:05:07Z"
+          },
+          "animal": {
+            "$t": "Dog"
+          }
+        },
+        {
+          "options": {
+            "option": [
+              {
+                "$t": "hasShots"
+              },
+              {
+                "$t": "altered"
+              }
+            ]
+          },
+          "status": {
+            "$t": "A"
+          },
+          "contact": {
+            "phone": {
+              "$t": "505-399-1654"
+            },
+            "state": {
+              "$t": "CO"
+            },
+            "address2": {},
+            "email": {
+              "$t": "adopt@rezdawgrescue.org"
+            },
+            "city": {
+              "$t": "Boulder"
+            },
+            "zip": {
+              "$t": "80306"
+            },
+            "fax": {},
+            "address1": {}
+          },
+          "age": {
+            "$t": "Baby"
+          },
+          "size": {
+            "$t": "M"
+          },
+          "media": {
+            "photos": {
+              "photo": [
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/36546496/1/?bust=1477359968&width=60&-pnt.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/36546496/1/?bust=1477359968&width=95&-fpm.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/36546496/1/?bust=1477359968&width=500&-x.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/36546496/1/?bust=1477359968&width=300&-pn.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/36546496/1/?bust=1477359968&width=50&-t.jpg",
+                  "@id": "1"
+                }
+              ]
+            }
+          },
+          "id": {
+            "$t": "36546496"
+          },
+          "shelterPetId": {
+            "$t": "ps_64214477"
+          },
+          "breeds": {
+            "breed": [
+              {
+                "$t": "Shepherd"
+              },
+              {
+                "$t": "Australian Cattle Dog (Blue Heeler)"
+              }
+            ]
+          },
+          "name": {
+            "$t": "Doli"
+          },
+          "sex": {
+            "$t": "F"
+          },
+          "description": {
+            "$t": "Come meet Doli at our adoption event!Saturday Oct 22, 201611am-3pmPetsmart Lone Tree8695 Park Meadows Dr.Lone Tree, CO 80124\n\nRezDawg's adoption fees cover rescue and transportation costs, spay/neuter, microchip, deworming and vaccinations to bring the animals up-to-date at their time of adoption. You save a bundle of money by adopting from a non-profitâand even more importantly, you allow RezDawg to save another animal from being euthanized. ALL funds are used to save and support the animals!"
+          },
+          "mix": {
+            "$t": "no"
+          },
+          "shelterId": {
+            "$t": "CO437"
+          },
+          "lastUpdate": {
+            "$t": "2016-10-24T19:05:07Z"
+          },
+          "animal": {
+            "$t": "Dog"
+          }
+        },
+        {
+          "options": {
+            "option": [
+              {
+                "$t": "hasShots"
+              },
+              {
+                "$t": "altered"
+              },
+              {
+                "$t": "housetrained"
+              }
+            ]
+          },
+          "status": {
+            "$t": "A"
+          },
+          "contact": {
+            "phone": {
+              "$t": "505-399-1654"
+            },
+            "state": {
+              "$t": "CO"
+            },
+            "address2": {},
+            "email": {
+              "$t": "adopt@rezdawgrescue.org"
+            },
+            "city": {
+              "$t": "Boulder"
+            },
+            "zip": {
+              "$t": "80306"
+            },
+            "fax": {},
+            "address1": {}
+          },
+          "age": {
+            "$t": "Adult"
+          },
+          "size": {
+            "$t": "M"
+          },
+          "media": {
+            "photos": {
+              "photo": [
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/36474903/1/?bust=1476438626&width=60&-pnt.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/36474903/1/?bust=1476438626&width=95&-fpm.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/36474903/1/?bust=1476438626&width=500&-x.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/36474903/1/?bust=1476438626&width=300&-pn.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/36474903/1/?bust=1476438626&width=50&-t.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/36474903/2/?bust=1476438627&width=60&-pnt.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/36474903/2/?bust=1476438627&width=95&-fpm.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/36474903/2/?bust=1476438627&width=500&-x.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/36474903/2/?bust=1476438627&width=300&-pn.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/36474903/2/?bust=1476438627&width=50&-t.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/36474903/3/?bust=1477014135&width=60&-pnt.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/36474903/3/?bust=1477014135&width=95&-fpm.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/36474903/3/?bust=1477014135&width=500&-x.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/36474903/3/?bust=1477014135&width=300&-pn.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/36474903/3/?bust=1477014135&width=50&-t.jpg",
+                  "@id": "3"
+                }
+              ]
+            }
+          },
+          "id": {
+            "$t": "36474903"
+          },
+          "shelterPetId": {
+            "$t": "ps_48779394"
+          },
+          "breeds": {
+            "breed": {
+              "$t": "Staffordshire Bull Terrier"
+            }
+          },
+          "name": {
+            "$t": "Audrey"
+          },
+          "sex": {
+            "$t": "F"
+          },
+          "description": {
+            "$t": "Audrey is a supersweet, lovable, and cuddly little girl looking for her forever family. Not much is known about her history, except that she was found looking for something to eat in the parking lot of a fast food restaurant in an urban area of Gallup, NM, near the Navajo reservation lands where most of Rez Dawg Rescue's adoptable animals come from. Audrey is now in a foster home in Longmont, CO (about an hour north of Denver). She is full-grown at 39 lbs and estimated to be around two years old. \n\nAudrey has a beautiful reddish-brown coatâvery short hair, minimal shedding!âwith patches of white fur on her nose, on her chest, and on three of her paws. She is housetrained, crate trained (she often goes into her crate to sleep and relax during the day without prompting), and her foster people are working on training her to sit and make eye contact before getting loving or food treats. She is a big fan of hanging out on the sofa with you while you watch TV or read. Audrey walks nicely on a leash without pulling and is getting along fine with the four other dogs at her foster home (all medium to larger dogs). She does seem to have a strong prey drive, so she would be best for a home without cats or small, fearful dogs (Audrey is fine with smaller toy-breed dogs if they are confident in their demeanor and don't run away from her).\n\nHere are a couple of videos of Audrey, playing with one of her foster friends, and upsidedown, getting her chest and neck scratched:\n\nhttps://youtu.be/mGR7MC2siTE\n\nhttps://youtu.be/DqZwHavH3Gc\n\nAudrey was spayed and microchipped on October 24th and will be ready for adoption about a week later. Would you like to meet this friendly, happy girl and possibly be her forever family? If so, please submit an application today!\n\nRezDawg's adoption fees cover rescue and transportation costs, spay/neuter, microchip, deworming and vaccinations to bring the animals up-to-date at their time of adoption. You save a bundle of money by adopting from a non-profitâand even more importantly, you allow RezDawg to save another animal from being euthanized. ALL funds are used to save and support the animals!"
+          },
+          "mix": {
+            "$t": "no"
+          },
+          "shelterId": {
+            "$t": "CO437"
+          },
+          "lastUpdate": {
+            "$t": "2016-10-26T19:07:41Z"
+          },
+          "animal": {
+            "$t": "Dog"
+          }
+        },
+        {
+          "options": {},
+          "status": {
+            "$t": "A"
+          },
+          "contact": {
+            "phone": {
+              "$t": "505-399-1654"
+            },
+            "state": {
+              "$t": "CO"
+            },
+            "address2": {},
+            "email": {
+              "$t": "adopt@rezdawgrescue.org"
+            },
+            "city": {
+              "$t": "Boulder"
+            },
+            "zip": {
+              "$t": "80306"
+            },
+            "fax": {},
+            "address1": {}
+          },
+          "age": {
+            "$t": "Adult"
+          },
+          "size": {
+            "$t": "M"
+          },
+          "media": {
+            "photos": {
+              "photo": [
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/36583724/1/?bust=1477532837&width=60&-pnt.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/36583724/1/?bust=1477532837&width=95&-fpm.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/36583724/1/?bust=1477532837&width=500&-x.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/36583724/1/?bust=1477532837&width=300&-pn.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/36583724/1/?bust=1477532837&width=50&-t.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/36583724/2/?bust=1477532837&width=60&-pnt.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/36583724/2/?bust=1477532837&width=95&-fpm.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/36583724/2/?bust=1477532837&width=500&-x.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/36583724/2/?bust=1477532837&width=300&-pn.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/36583724/2/?bust=1477532837&width=50&-t.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/36583724/3/?bust=1477532838&width=60&-pnt.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/36583724/3/?bust=1477532838&width=95&-fpm.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/36583724/3/?bust=1477532838&width=500&-x.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/36583724/3/?bust=1477532838&width=300&-pn.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/36583724/3/?bust=1477532838&width=50&-t.jpg",
+                  "@id": "3"
+                }
+              ]
+            }
+          },
+          "id": {
+            "$t": "36583724"
+          },
+          "shelterPetId": {
+            "$t": "ps_30639827"
+          },
+          "breeds": {
+            "breed": {
+              "$t": "American Staffordshire Terrier"
+            }
+          },
+          "name": {
+            "$t": "Chance"
+          },
+          "sex": {
+            "$t": "M"
+          },
+          "description": {
+            "$t": "Chance is like a Disney animated dog come to life - he loves toys, treats, and knows all his commands - sit, stay, off, come, lay down, toy, drop it. In addition to his incredible smarts, he is very affectionate and plays with other dogs well. He does great at home with baths and at the groomer, has had a blast on the one hike we've gone on so far, and loves playing frisbee in the back yard. He is crated during the day while alone, but does fine overnight in the house. Chance is already the perfect dog that would do well as a companion and would also likely excel with some advanced command training since he is such a smartypants.\n\nRezDawg's adoption fees cover rescue and relocation costs, spay/neuter, microchip, deworming and vaccinations to bring the animals up-to-date at their time of adoption. You save a bundle of money by adopting from a non-profitâand even more importantly, you allow RezDawg to save another animal from being euthanized. ALL funds are used to save and support the animals!"
+          },
+          "mix": {
+            "$t": "no"
+          },
+          "shelterId": {
+            "$t": "CO437"
+          },
+          "lastUpdate": {
+            "$t": "2016-10-27T01:08:01Z"
+          },
+          "animal": {
+            "$t": "Dog"
+          }
+        }
+      ]
+    },
+    "header": {
+      "timestamp": {
+        "$t": "2016-10-28T19:36:12Z"
+      },
+      "status": {
+        "message": {},
+        "code": {
+          "$t": "100"
