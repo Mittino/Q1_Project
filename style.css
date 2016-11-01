@@ -1,4 +1,9 @@
-
+h4{
+  color: #F98407;
+  text-align: center;
+  padding: 20px;
+  margin-bottom: 10px;
+}
 .modal-trigger{
   width: 100%;
   position: absolute;
@@ -25,6 +30,10 @@
   color: #FFF1D0;
 }
 .card-image{
-
-  height: 100%
+  background: transparent url('sampleDogPhoto.jpeg')center center;
+  background-size: cover;
+}
+.search-margin{
+  margin-left: 30px;
+  margin-right: 30px;
 }

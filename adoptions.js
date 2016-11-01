@@ -75,11 +75,11 @@ function buildCards(pets){
     photo = pets[i].media.photos.photo;
   } else{
     photo = "photo unavailable";
-  }
     console.log(photo);
+  }
 
     $('#petCards').append(
-      '<div class="col s12 m2">'+
+      '<div class="col s12 m3">'+
         '<div class="card small">'+
           '<div class="card-image">'+
             '<img src=' + dogPhotoDisplay + '>' +
@@ -100,9 +100,9 @@ function buildCards(pets){
       '</div>');
 
       for (j=0; j<photo.length; j++){
-        if (photo.length > 0){
+        //if (photo.length > 0){
         dogPhotoDisplay= photo[2].$t;
-      }
+      //}
 
     }
 
