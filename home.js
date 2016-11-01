@@ -53,6 +53,9 @@
           '<div id="modal1" class="modal">' +
             '<div class="modal-content">' +
               '<h4>' + data.petfinder.pet.name.$t + '</h4>' +
+              '<p> State: '+ data.petfinder.pet.contact.state.$t + '</p>' +
+              '<p> Age: '+ data.petfinder.pet.age.$t + '</p>' +
+              '<p> Size: '+ data.petfinder.pet.size.$t + '</p>' +
               '<p> Description: '+ data.petfinder.pet.description.$t + '</p>' +
               '<p> Contact: '+ data.petfinder.pet.contact.email.$t + '</p>' +
             '</div>' +
