@@ -2,7 +2,7 @@ h4{
   color: #F98407;
   text-align: center;
   padding: 20px;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 .modal-trigger{
   width: 100%;
@@ -36,4 +36,7 @@ h4{
 .search-margin{
   margin-left: 30px;
   margin-right: 30px;
+}
+.submit-application{
+  margin-top: 25px;
 }
