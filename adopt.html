@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/css/materialize.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/js/materialize.min.js"></script>
     <link rel="stylesheet" href="style.css">
-    <script type="text/javascript" src="adoptions.js"></script>
+    <script type="text/javascript" src="AdoptionForm.js"></script>
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet">
     <title>Adopt a Pup - Search</title>
@@ -30,18 +30,25 @@
 
 
     <div class="row">
-      <form class="col s12">
+      <form class="col s12" id="adoptionForm">
         <div class="col s1">
         </div>
         <div class="col s5">
           <div class="input-field col s12">
-            <input placeholder="Full Name" type="text">
+            <input placeholder="Your Full Name" type="text">
             <label> Name:</label>
           </div>
           <div class="input-field col s12">
             <input placeholder="Home Address" type="text">
-
             <label> Address: </label>
+          </div>
+          <div class="input-field col s12">
+            <input placeholder="888-888-8888" type="text">
+            <label> Phone Number: </label>
+          </div>
+          <div class="input-field col s12">
+            <input placeholder="email@email.com" type="text">
+            <label> Email: </label>
           </div>
           <div class="input-field col s12">
             <input placeholder="Tell Us A Little About You!" type="text">
@@ -51,15 +58,20 @@
             <input placeholder="Example: I grew up with large dogs am looking for a large dog to join our family of 3... " type="text">
             <label> Experience with Dogs: </label>
           </div>
+
         </div>
         <div class="col s5">
           <div class="input-field col s12">
             <input placeholder="Pet Name" type="text">
-            <label> Pet's Name:</label>
+            <label> Dog's Name:</label>
           </div>
           <div class="input-field col s12">
             <input placeholder="rescuegroup@email.com" type="text">
             <label> Pet Contact Email: </label>
+          </div>
+          <div class="input-field col s12">
+            <input placeholder="ID Number" type="text">
+            <label> Shelter ID:</label>
           </div>
           <div class="input-field col s12">
             <input placeholder="Example: I've been wanting a small dog to work on agility with..." type="text">
@@ -69,11 +81,16 @@
             <input placeholder="Example: We have a cat that has been around dogs before... " type="text">
             <label> Other Pets in Household? </label>
           </div>
+          <div class="input-field col s12">
+            <input placeholder="Anything additinal you'd like us to know about you or the dog." type="text">
+            <label> Additional Information: </label>
+          </div>
+
           <div class="col s1">
           </div>
         </div>
         <div class="row center-align">
-          <div class="btn submit-application">Submit</div>
+          <button class="btn submit-application"type="submit">Submit</button>
         </div>
       </form>
     </div>

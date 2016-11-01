@@ -81,7 +81,7 @@ function buildCards(pets){
     $('#petCards').append(
       '<div class="col s12 m3">'+
         '<div class="card small">'+
-          '<div class="card-image">'+
+          '<div class="card-image center">'+
             '<img src=' + dogPhotoDisplay + '>' +
           '</div>' +
 
@@ -93,6 +93,8 @@ function buildCards(pets){
                 '<h4>' + pets[i].name.$t + '</h4>' +
                 '<p> Description: ' + pets[i].description.$t + '</p>' +
                 '<p> Contact: ' + pets[i].contact.email.$t + '</p>' +
+                '<p> Shelter ID: ' + pets[i].shelterId.$t + '</p>' +
+                '<img src=' + dogPhotoDisplay + '>' +
               '</div>' +
             '</div>' +
           '</div>'+
