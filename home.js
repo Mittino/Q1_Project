@@ -34,12 +34,8 @@
   }
 
   function buildFeaturedPet(data){
-    var i;
     var photos = data.petfinder.pet.media.photos.photo;
-    console.log(photos);
-    var photo = photos[2].$t
-    console.log(photo);
-    console.log(data.petfinder.pet.name.$t);
+    var photo = photos[2].$t;
 
     $('#featuredPet').append(
 
