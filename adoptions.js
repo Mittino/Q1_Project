@@ -17,7 +17,7 @@ function buildData(){
     format: "json",
     output: "full",
     key: apiKey,
-    count: 48,
+    count: 96,
     animal: "dog",
   };
 
@@ -57,7 +57,6 @@ function getResults(data){
       petData = [];
       petData = data.petfinder.pets.pet;
       createPages(petData);
-      buildPagination();
     }
   });
 }
@@ -74,7 +73,8 @@ function createPages(pets){
   page1 = pets.slice(0,24);
   page2 = pets.slice(24,48);
   page3 = pets.slice(48,72);
-  page4 = pets.slice(72,95);
+  page4 = pets.slice(72,96);
+  buildPagination();
 }
 
 
@@ -111,7 +111,7 @@ function buildCards(pets){
     $('#petCards').append(
       '<div class="col s12 m3">'+
         '<div class="card small">'+
-          '<div class="card-image center" style="background-image: url('+ photo + ')">'+ // TODO: Set background image
+          '<div class="card-image center" style="background-image: url('+ photo + ')">'+
 
           '</div>' +
 
@@ -130,12 +130,12 @@ function buildCards(pets){
           '</div>'+
         '</div>'+
       '</div>');
-
-
     }
+  $('.modal-trigger').leanModal();
 }
 
 function buildPagination(){
+    $('#pagination').empty();
 
     $('#pagination').append(
       '<ul class="pagination">' +
@@ -148,7 +148,8 @@ function buildPagination(){
     '</ul>'
   );
 
-  $('.modal-trigger').leanModal();
+  pagePets(pageNumber);
+
   $('#page1').on("click", function(){
     pageNumber = 1;
     console.log('page1click');
