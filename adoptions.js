@@ -56,26 +56,48 @@ function getResults(data){
     success: function(data){
       petData = [];
       petData = data.petfinder.pets.pet;
-      buildCards(petData);
+      createPages(petData);
       buildPagination();
     }
   });
 }
 
 var petData;
+console.log(petData);
 var pageNumber = 1;
+var page1;
+var page2;
+var page3;
+var page4;
+
+function createPages(pets){
+  page1 = pets.slice(0,24);
+  page2 = pets.slice(24,48);
+  page3 = pets.slice(48,72);
+  page4 = pets.slice(72,95);
+}
+
+
+function pagePets(page){
+  var returnPets;
+
+  if (pageNumber === 1){
+    returnPets = page1;
+  } else if(pageNumber === 2){
+    returnPets=page2;
+  } else if(pageNumber === 3){
+    returnPets=page3;
+  } else if(pageNumber === 4){
+    returnPets=page4;
+  }
+  buildCards(returnPets);
+  console.log(returnPets);
+}
 
 function buildCards(pets){
   var i;
   var photo;
-  var page1 = pets.slice(0,24);
-  var page2 = pets.slice(24,48);
 
-  if (pageNumber === 1){
-    pets = page1;
-  }
-
-  console.log(pets);
   $('#petCards').empty();
 
   for (i=0; i<pets.length; i++){
@@ -128,16 +150,24 @@ function buildPagination(){
 
   $('.modal-trigger').leanModal();
   $('#page1').on("click", function(){
+    pageNumber = 1;
     console.log('page1click');
+    pagePets(pageNumber);
   });
 
   $('#page2').on("click", function(){
     console.log('page2click');
+    pageNumber=2;
+    pagePets(pageNumber);
   });
   $('#page3').on("click", function(){
     console.log('page3click');
+    pageNumber=3;
+    pagePets(pageNumber);
   });
   $('#page4').on("click", function(){
     console.log('page4click');
+    pageNumber=4;
+    pagePets(pageNumber);
   });
 }
