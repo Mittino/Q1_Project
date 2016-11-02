@@ -37,6 +37,13 @@
     var photos = data.petfinder.pet.media.photos.photo;
     var photo = photos[2].$t;
 
+    if (photos[2].$t !== undefined){
+      photo = photos[2].$t;
+    } else {
+      photo = "photounavailable.png";
+      console.log(photo);
+    }
+
     $('#featuredPet').append(
 
       '<div class="card medium">' +
