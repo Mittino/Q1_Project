@@ -153,7 +153,8 @@ function buildPagination(){
 
   $('.pagination').click(function(event){
     var clicked = $(event.target).parent().val();
-    $(event.target).parent().toggleClass("active");
+    $('.pagination').children().removeClass('active');
+    $(event.target).parent().addClass('active');
     pageNumber = clicked;
     pagePets(pageNumber);
   });
