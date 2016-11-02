@@ -57,6 +57,7 @@ function getResults(data){
       petData = [];
       petData = data.petfinder.pets.pet;
       buildCards(petData);
+      buildPagination();
     }
   });
 }
@@ -73,7 +74,6 @@ function buildCards(pets){
   if (pageNumber === 1){
     pets = page1;
   }
-
 
   console.log(pets);
   $('#petCards').empty();
@@ -111,18 +111,33 @@ function buildCards(pets){
 
 
     }
+}
+
+function buildPagination(){
 
     $('#pagination').append(
       '<ul class="pagination">' +
       '<li class="disabled"><a href="#!"><i class="material-icons">chevron_left</i></a></li>'+
-      '<li class="active"><a href="#!">1</a></li>' +
-      '<li class="waves-effect"><a href="#!">2</a></li>' +
-      '<li class="waves-effect"><a href="#!">3</a></li>' +
-      '<li class="waves-effect"><a href="#!">4</a></li>' +
-      '<li class="waves-effect"><a href="#!">5</a></li>' +
+      '<li class="active" value="1" id="page1"><a href="#!">1</a></li>' +
+      '<li class="waves-effect" value="2" id="page2"><a href="#!">2</a></li>' +
+      '<li class="waves-effect" id="page3"><a href="#!">3</a></li>' +
+      '<li class="waves-effect" id="page4"><a href="#!">4</a></li>' +
+      '<li class="waves-effect"><a href="#!"><i class="material-icons">chevron_right</i></a></li>' +
     '</ul>'
   );
 
   $('.modal-trigger').leanModal();
+  $('#page1').on("click", function(){
+    console.log('page1click');
+  });
 
+  $('#page2').on("click", function(){
+    console.log('page2click');
+  });
+  $('#page3').on("click", function(){
+    console.log('page3click');
+  });
+  $('#page4').on("click", function(){
+    console.log('page4click');
+  });
 }
