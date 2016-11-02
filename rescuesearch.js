@@ -33,14 +33,37 @@ $(document).ready(function(){
 
     function getResults(data){
       $.ajax({
-        url:'http://api.petfinder.com/pet.find',
+        url:'http://api.petfinder.com/shelter.find',
         jsonp: "callback",
         dataType:"jsonp",
         data: data,
         type: 'get',
         success: function(data){
-          console.log('success');
+          var shelters = data.petfinder.shelters.shelter;
+          buildResults(shelters);
         }
       });
     }
-  
+
+    function buildResults(data){
+      console.log(data);
+      var i;
+      for (i=0; i<data.length; i++){
+
+        $('#shelters').append(
+
+          '<div class="col s12 m6">' +
+          '<div class="card horizontal">' +
+            '<div class="card-stacked">' +
+              '<div class="card-content">' +
+                '<h4>'+ data[i].name.$t + '</h4>' +
+                '<p class="text"> City: '+ data[i].city.$t + '</p>' +
+                '<p class="text"> Email: '+ data[i].email.$t + '</p>' +
+                '<p class="text"> Phone: '+ data[i].phone.$t + '</p>' +
+                '<p class="text"> Shelter ID: '+ data[i].id.$t + '</p>' +
+              '</div>' +
+            '</div>' +
+          '</div>' +
+        '</div>' );
+      }
+    }
