@@ -6,6 +6,7 @@ $(document).ready(function(){
     event.preventDefault();
     buildData();
   });
+  $('#location').focus();
   $('select').material_select();
   $('.modal-trigger').leanModal();
 });
@@ -84,11 +85,11 @@ function pagePets(page){
   if (pageNumber === 1){
     returnPets = page1;
   } else if(pageNumber === 2){
-    returnPets=page2;
+    returnPets = page2;
   } else if(pageNumber === 3){
-    returnPets=page3;
+    returnPets = page3;
   } else if(pageNumber === 4){
-    returnPets=page4;
+    returnPets = page4;
   }
   buildCards(returnPets);
   console.log(returnPets);
@@ -97,6 +98,7 @@ function pagePets(page){
 function buildCards(pets){
   var i;
   var photo;
+  console.log(pets);
 
   $('#petCards').empty();
 
@@ -139,36 +141,21 @@ function buildPagination(){
 
     $('#pagination').append(
       '<ul class="pagination">' +
-      '<li class="disabled"><a href="#!"><i class="material-icons">chevron_left</i></a></li>'+
-      '<li class="active" value="1" id="page1"><a href="#!">1</a></li>' +
-      '<li class="waves-effect" value="2" id="page2"><a href="#!">2</a></li>' +
-      '<li class="waves-effect" id="page3"><a href="#!">3</a></li>' +
-      '<li class="waves-effect" id="page4"><a href="#!">4</a></li>' +
-      '<li class="waves-effect"><a href="#!"><i class="material-icons">chevron_right</i></a></li>' +
-    '</ul>'
-  );
+        '<li class="disabled"><a href="#!"><i class="material-icons">chevron_left</i></a></li>'+
+        '<li class="active" value="1" id="page1"><a href="#!">1</a></li>' +
+        '<li class="waves-effect" value="2" id="page2"><a href="#!">2</a></li>' +
+        '<li class="waves-effect" value="3"id="page3"><a href="#!">3</a></li>' +
+        '<li class="waves-effect" value="4" id="page4"><a href="#!">4</a></li>' +
+        '<li class="waves-effect"><a href="#!"><i class="material-icons">chevron_right</i></a></li>' +
+      '</ul>'
+    );
 
-  pagePets(pageNumber);
-
-  $('#page1').on("click", function(){
-    pageNumber = 1;
-    console.log('page1click');
-    pagePets(pageNumber);
-  });
-
-  $('#page2').on("click", function(){
-    console.log('page2click');
-    pageNumber=2;
-    pagePets(pageNumber);
-  });
-  $('#page3').on("click", function(){
-    console.log('page3click');
-    pageNumber=3;
-    pagePets(pageNumber);
-  });
-  $('#page4').on("click", function(){
-    console.log('page4click');
-    pageNumber=4;
+  $('.pagination').click(function(event){
+    var clicked = $(event.target).parent().val();
+    $(event.target).parent().toggleClass("active");
+    pageNumber = clicked;
+    console.log(pageNumber);
+    console.log('clicked', clicked);
     pagePets(pageNumber);
   });
 }
