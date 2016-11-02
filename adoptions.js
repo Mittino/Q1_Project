@@ -58,6 +58,7 @@ function getResults(data){
       petData = [];
       petData = data.petfinder.pets.pet;
       createPages(petData);
+      pagePets(page1);
     }
   });
 }
@@ -154,8 +155,6 @@ function buildPagination(){
     var clicked = $(event.target).parent().val();
     $(event.target).parent().toggleClass("active");
     pageNumber = clicked;
-    console.log(pageNumber);
-    console.log('clicked', clicked);
     pagePets(pageNumber);
   });
 }
