@@ -77,7 +77,7 @@ function buildCards(pets){
     if (pets[i].media.photos !== undefined){
       photo = pets[i].media.photos.photo[2].$t;
     } else{
-      photo = "photo unavailable"; // TODO: unavailable image URL
+      photo = "photounavailable.png";
       console.log(photo);
     }
 
