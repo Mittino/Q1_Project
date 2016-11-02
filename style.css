@@ -30,8 +30,9 @@ h4{
   color: #FFF1D0;
 }
 .card-image{
-  background: transparent url('sampleDogPhoto.jpeg')center center;
+  min-height: 225px;
   background-size: cover;
+  background-position: center top;
 }
 .search-margin{
   margin-left: 30px;
@@ -39,4 +40,13 @@ h4{
 }
 .submit-application{
   margin-top: 25px;
+}
+.text{
+  color: #5B5B5B;
+  font-size: 18px;
+  font-family: 'Hind', sans-serif;
+  vertical-align: text-top;
+}
+.feature-image{
+  min-height: 301px;
 }

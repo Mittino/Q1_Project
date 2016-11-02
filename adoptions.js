@@ -67,22 +67,25 @@ function buildCards(pets){
   var j;
   var photo;
   var dogPhotoDisplay;
+  var photo2;
+  var photo3;
+
   console.log(pets);
   $('#petCards').empty();
 
   for (i=0; i<pets.length; i++){
     if (pets[i].media.photos !== undefined){
-    photo = pets[i].media.photos.photo;
-  } else{
-    photo = "photo unavailable";
-    console.log(photo);
-  }
+      photo = pets[i].media.photos.photo[2].$t;
+    } else{
+      photo = "photo unavailable"; // TODO: unavailable image URL
+      console.log(photo);
+    }
 
     $('#petCards').append(
       '<div class="col s12 m3">'+
         '<div class="card small">'+
-          '<div class="card-image center">'+
-            '<img src=' + dogPhotoDisplay + '>' +
+          '<div class="card-image center" style="background-image: url('+ photo + ')">'+ // TODO: Set background image
+
           '</div>' +
 
           '<a class="waves-effect waves-light btn modal-trigger" href="#modal' + i + '">' +
@@ -94,21 +97,17 @@ function buildCards(pets){
                 '<p> Description: ' + pets[i].description.$t + '</p>' +
                 '<p> Contact: ' + pets[i].contact.email.$t + '</p>' +
                 '<p> Shelter ID: ' + pets[i].shelterId.$t + '</p>' +
-                '<img src=' + dogPhotoDisplay + '>' +
+                '<img src=' + photo + '>' +
               '</div>' +
             '</div>' +
           '</div>'+
         '</div>'+
       '</div>');
 
-      for (j=0; j<photo.length; j++){
-        //if (photo.length > 0){
-        dogPhotoDisplay= photo[2].$t;
-      //}
 
     }
 
-  }
+
   $('.modal-trigger').leanModal();
 
 }
