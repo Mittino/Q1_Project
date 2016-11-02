@@ -17,6 +17,7 @@ function buildData(){
     format: "json",
     output: "full",
     key: apiKey,
+    count: 48,
     animal: "dog",
   };
 
@@ -61,14 +62,18 @@ function getResults(data){
 }
 
 var petData;
+var pageNumber = 1;
 
 function buildCards(pets){
   var i;
-  var j;
   var photo;
-  var dogPhotoDisplay;
-  var photo2;
-  var photo3;
+  var page1 = pets.slice(0,24);
+  var page2 = pets.slice(24,48);
+
+  if (pageNumber === 1){
+    pets = page1;
+  }
+
 
   console.log(pets);
   $('#petCards').empty();
@@ -107,6 +112,16 @@ function buildCards(pets){
 
     }
 
+    $('#pagination').append(
+      '<ul class="pagination">' +
+      '<li class="disabled"><a href="#!"><i class="material-icons">chevron_left</i></a></li>'+
+      '<li class="active"><a href="#!">1</a></li>' +
+      '<li class="waves-effect"><a href="#!">2</a></li>' +
+      '<li class="waves-effect"><a href="#!">3</a></li>' +
+      '<li class="waves-effect"><a href="#!">4</a></li>' +
+      '<li class="waves-effect"><a href="#!">5</a></li>' +
+    '</ul>'
+  );
 
   $('.modal-trigger').leanModal();
 
