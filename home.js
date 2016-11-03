@@ -51,7 +51,7 @@
 
         '</div>' +
         '<div class="card-action center">' +
-        '<p class="dogName">' + data.petfinder.pet.name.$t + '</p>' +
+        '<p class="dogName"> Featured Pet:<br>' + data.petfinder.pet.name.$t + '</p>' +
         '<a class="waves-effect waves-light btn modal-trigger" href="#modal1">' +
           'More Info' +
         '</a>'+

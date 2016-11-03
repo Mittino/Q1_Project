@@ -97,4 +97,6 @@ body {
 main {
   flex: 1 0 auto;
 }
-   
+.slider .indicators .indicator-item.active {
+  background-color: #5B5B5B;
+}
