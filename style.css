@@ -24,10 +24,15 @@ h4{
 }
 .page-footer{
   background-color: #086788;
+  height: 70px;
 }
+
 .nav-wrapper{
   background-color: #086788;
   color: #FFF1D0;
+}
+.navmargin{
+  margin-top: 20px;
 }
 
 .logo img{
@@ -83,3 +88,13 @@ h4{
 .mainslide {
   height:500px;
 }
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
+   

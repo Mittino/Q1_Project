@@ -10,100 +10,98 @@
     <script type="text/javascript" src="adoptions.js"></script>
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet">
+    <link href="favicon.ico" rel="shortcut icon">
     <title>Adopt a Pup - Search</title>
   </head>
   <body>
-    <div class="navbar-fixed">
-      <nav class="nav-wrapper">
-        <div>
-          <a class="logo" href="index.html">
-            <img src="pupLogo_v2.png"></a>
-          <ul id="nav-mobile" class="right hide-on-med-and-down">
-            <li><a href="index.html">Home</a></li>
-            <li class="active"><a href="search.html">Search</a></li>
-            <li><a href="adopt.html">Adopt</a></li>
-            <li><a href="rescuesearch.html">Shelters</a></li>
-          </ul>
-        </div>
-      </nav>
-    </div>
-
-    <div class="center row container">
-      <h4> Enter Your Search Below </h4>
-      <form class="col s12" id="search" name="search">
-          <div class="input-field col s3">
-            <input placeholder="Enter Zip Code (Required)" type="text" class="validate" id="location">
-            <label for="Location">Search by Location</label>
+    <header>
+      <div class="navbar-fixed">
+        <nav class="nav-wrapper">
+          <div>
+            <a class="logo" href="index.html">
+              <img src="pupLogo_v2.png"></a>
+            <ul id="nav-mobile" class="right hide-on-med-and-down">
+              <li><a href="index.html">Home</a></li>
+              <li class="active"><a href="search.html">Search</a></li>
+              <li><a href="adopt.html">Adopt</a></li>
+              <li><a href="rescuesearch.html">Shelters</a></li>
+            </ul>
           </div>
-          <div class="input-field col s3 select-dropdown">
-            <select id="size">
-              <option value="" disabled selected>Search by Size</option>
-              <option value="S">Small</option>
-              <option value="M">Medium</option>
-              <option value="L">Large</option>
-              <option value="XL">Extra Large</option>
-              </select>
-            <label for="size">Dog Size</label>
-          </div>
-          <div class="input-field col s3">
-            <select id="sex">
-              <option value="" disabled selected>Sex</option>
-              <option value="M">Male</option>
-              <option value="F">Female</option>
-            </select>
-            <label for="size">Sex</label>
-          </div>
-          <div class="input-field col s3">
-            <select id="age">
-              <option value="" disabled selected>Age</option>
-              <option value="Baby">Baby</option>
-              <option value="Young">Young</option>
-              <option value="Adult">Adult</option>
-              <option value="Senior">Senior</option>
-              </select>
-            <label for="size">Age</label>
-          </div>
-        <div class="row">
-          <button type="submit" class="waves-effect waves-light #F98407 btn submit-application">Search</button>
-        </div>
-      </form>
-    </div>
-    <div class="search-margin">
-      <div class="row container" id="petCards">
-
-
+        </nav>
       </div>
-      <div id="loadMore" class="center">
+    </header>
+    <main>
+      <div class="center row container">
+        <h4> Enter Your Search Below </h4>
+        <form class="col s12" id="search" name="search">
+            <div class="input-field col s3">
+              <input placeholder="Enter Zip Code (Required)" type="text" class="validate" id="location">
+              <label for="Location">Search by Location</label>
+            </div>
+            <div class="input-field col s3 select-dropdown">
+              <select id="size">
+                <option value="" disabled selected>Search by Size</option>
+                <option value="S">Small</option>
+                <option value="M">Medium</option>
+                <option value="L">Large</option>
+                <option value="XL">Extra Large</option>
+                </select>
+              <label for="size">Dog Size</label>
+            </div>
+            <div class="input-field col s3">
+              <select id="sex">
+                <option value="" disabled selected>Sex</option>
+                <option value="M">Male</option>
+                <option value="F">Female</option>
+              </select>
+              <label for="size">Sex</label>
+            </div>
+            <div class="input-field col s3">
+              <select id="age">
+                <option value="" disabled selected>Age</option>
+                <option value="Baby">Baby</option>
+                <option value="Young">Young</option>
+                <option value="Adult">Adult</option>
+                <option value="Senior">Senior</option>
+                </select>
+              <label for="size">Age</label>
+            </div>
+          <div class="row">
+            <button type="submit" class="waves-effect waves-light #F98407 btn submit-application">Search</button>
+          </div>
+        </form>
       </div>
-    </div>
+      <div class="search-margin">
+        <div class="row container" id="petCards">
 
+
+        </div>
+        <div id="loadMore" class="center">
+        </div>
+      </div>
+    </main>
     <footer>
       <div class="page-footer nav">
         <div class="container">
           <div class="row">
-            <div class="col l6 s12">
-              <h5 class="white-text">Footer Content</h5>
-              <p class="grey-text text-lighten-4">You can use rows and columns here to organize your footer content.</p>
+            <div class="col l6 s12 white-text navmargin">
+              Adopt-a-Pup © 2016 | <a class="container white-text" href="https://www.petfinder.com"> Powered by Petfinder</a>
+              <div class="row">
+              </div>
             </div>
             <div class="col l4 offset-l2 s12">
-              <h5 class="white-text">Links</h5>
-              <ul>
-                <li><a class="grey-text text-lighten-3" href="#!">Link 1</a></li>
-                <li><a class="grey-text text-lighten-3" href="#!">Link 2</a></li>
-                <li><a class="grey-text text-lighten-3" href="#!">Link 3</a></li>
-                <li><a class="grey-text text-lighten-3" href="#!">Link 4</a></li>
-              </ul>
+
             </div>
           </div>
         </div>
         <div class="footer-copyright">
-          <div class="container">
-          © 2016 Copyright Text
-          <a class="grey-text text-lighten-4 right" href="#!">More Links</a>
-          </div>
+
+          <a class="grey-text text-lighten-4 right" href="#!"></a>
+
         </div>
       </div>
     </footer>
+
 
   </body>
 
