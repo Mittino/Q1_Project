@@ -11,6 +11,7 @@ $(document).ready(function(){
   $('#location').focus();
   $('select').material_select();
   $('.modal-trigger').leanModal();
+   $(".button-collapse").sideNav();
 });
 
 function buildData(){

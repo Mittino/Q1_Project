@@ -6,6 +6,7 @@ $(document).ready(function(){
     event.preventDefault();
     buildData();
   });
+   $(".button-collapse").sideNav();
 });
 
 
