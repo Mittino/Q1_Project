@@ -25,15 +25,14 @@
       </div>
     </nav>
 
-    <div class="center row">
+    <div class="center row container">
+      <h4> Enter Your Search Below </h4>
       <form class="col s12" id="search" name="search">
-        <div class="row valign-wrapper">
-          <div class="input-field col s4">
-            <i class="material-icons prefix">star</i>
+          <div class="input-field col s3">
             <input placeholder="Enter Zip Code (Required)" type="text" class="validate" id="location">
             <label for="Location">Search by Location</label>
           </div>
-          <div class="input-field col s4 select-dropdown">
+          <div class="input-field col s3 select-dropdown">
             <select id="size">
               <option value="" disabled selected>Search by Size</option>
               <option value="S">Small</option>
@@ -43,9 +42,7 @@
               </select>
             <label for="size">Dog Size</label>
           </div>
-        </div>
-        <div class="row valign-wrapper">
-          <div class="input-field col s4">
+          <div class="input-field col s3">
             <select id="sex">
               <option value="" disabled selected>Sex</option>
               <option value="M">Male</option>
@@ -53,7 +50,7 @@
             </select>
             <label for="size">Sex</label>
           </div>
-          <div class="input-field col s4">
+          <div class="input-field col s3">
             <select id="age">
               <option value="" disabled selected>Age</option>
               <option value="Baby">Baby</option>
@@ -63,42 +60,14 @@
               </select>
             <label for="size">Age</label>
           </div>
-        </div>
         <div class="row">
-          <button type="submit" class="waves-effect waves-light #F98407 btn">Search</button>
+          <button type="submit" class="waves-effect waves-light #F98407 btn submit-application">Search</button>
         </div>
       </form>
     </div>
     <div class="search-margin">
       <div class="row" id="petCards">
 
-
-        <div class="col s12 m3">
-          <div class="card small">
-            '<div class="card-image center" style="background-image: url(photounavailable.png)">
-            </div>
-
-              <div class="card-action">
-                  <p class="dogName">Really Really long dog name here</p>
-              <a class="waves-effect waves-light btn modal-trigger" href="#modal">
-            More Info
-              </a>
-            </div>
-
-
-          </div>
-              <div id="modal" class="modal">
-                <div class="modal-content">
-                  <h4> NAME </h4>
-                  <p> Description: description</p>
-                  <p> Contact: contactinfo </p>
-                  <p> Shelter ID: idnumber</p>
-                  <img class="modal-image" src="photounavailable.png">
-                </div>
-
-            </div>
-          </div>
-        </div>
 
       </div>
       <div id="loadMore" class="center">
