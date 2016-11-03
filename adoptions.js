@@ -28,6 +28,7 @@ function buildData(){
   };
 
   var searchInput = $('#location').val();
+  localStorage.setItem('location',searchInput);
   var zipCode = searchInput.replace(/\D/g, ''); //Note: zip code is required
 
   if (zipCode.length === 5){

@@ -10,17 +10,23 @@
      $(".button-collapse").sideNav();
   });
 
+  //data.location = localStorage.getItem('location');
+  buildData();
 
-  getResults();
-
-  function getResults(data){
+  function buildData(){
     var info = {
       format: "json",
       output: "full",
       key: apiKey,
       animal: "dog",
     };
-
+    if (localStorage.getItem('location').length > 0){
+      info.location = localStorage.getItem('location');
+    }
+    getResults(info);
+  }
+  function getResults(info){
+    console.log(info);
     $.ajax({
       url:'http://api.petfinder.com/pet.getRandom',
       jsonp: "callback",
@@ -72,6 +78,4 @@
       );
       $('.modal-trigger').leanModal();
   }
-
-
 })();
