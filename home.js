@@ -53,7 +53,7 @@
         '<div class="card-action center">' +
         '<p class="dogName"> Featured Pet:<br>' + data.petfinder.pet.name.$t + '</p>' +
         '<a class="waves-effect waves-light btn modal-trigger" href="#modal1">' +
-          'More Info' +
+          'More' +
         '</a>'+
           '<div id="modal1" class="modal">' +
             '<div class="modal-content">' +
