@@ -1,10 +1,9 @@
 h4{
-  color: #ff9e36;
+  color: #086788;
   text-align: center;
   padding: 20px;
   margin-bottom: 20px;
 }
-
 .card.small{
   height: 360px;
 }
@@ -29,6 +28,13 @@ h4{
 .nav-wrapper{
   background-color: #086788;
   color: #FFF1D0;
+}
+.logo img{
+    margin-left: 15px;
+    vertical-align: top;
+    position: relative;
+    height:65px;
+    margin-top: -15px;
 }
 .card-image{
   min-height: 258px;
@@ -72,4 +78,7 @@ h4{
 }
 .modaltext{
   text-align: left;
+}
+.mainslide {
+  height:500px;
 }
