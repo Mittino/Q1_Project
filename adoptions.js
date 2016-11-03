@@ -16,7 +16,7 @@ $(document).ready(function(){
 function buildData(){
 
   $('#petCards').empty();
-  
+
   search = {
     format: "json",
     output: "full",
@@ -96,7 +96,7 @@ function buildCards(pets){
                 '<p> Description: ' + pets[i].description.$t + '</p>' +
                 '<p> Contact: ' + pets[i].contact.email.$t + '</p>' +
                 '<p> Shelter ID: ' + pets[i].shelterId.$t + '</p>' +
-                '<img src=' + photo + '>' +
+                '<img class="modal-image" src=' + photo + '>' +
               '</div>' +
             '</div>' +
           '</div>'+

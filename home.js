@@ -62,7 +62,7 @@
               '<p> State: '+ data.petfinder.pet.contact.state.$t + '</p>' +
               '<p> Contact: '+ data.petfinder.pet.contact.email.$t + '</p>' +
               '<p> Shelter ID: '+ data.petfinder.pet.shelterId.$t + '</p>' +
-              '<img src=' + photo + '>' +
+              '<img class="modal-image" src=' + photo + '>' +
             '</div>' +
           '</div>' +
       '</div>'
