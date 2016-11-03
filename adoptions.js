@@ -87,15 +87,17 @@ function buildCards(pets){
         '<div class="card small">'+
           '<div class="card-image center" style="background-image: url('+ photo + ')">' +
           '</div>' +
+          '<div class="card-action center">' +
+            '<p class="dogName">' + pets[i].name.$t + '</p>' +
           '<a class="waves-effect waves-light btn modal-trigger" href="#modal' + pets[i].id.$t + '">' +
-            pets[i].name.$t +
+            'More Info' +
           '</a>' +
             '<div id="modal' + pets[i].id.$t + '" class="modal">' +
               '<div class="modal-content">'+
                 '<h4>' + pets[i].name.$t + '</h4>' +
-                '<p> Description: ' + pets[i].description.$t + '</p>' +
-                '<p> Contact: ' + pets[i].contact.email.$t + '</p>' +
-                '<p> Shelter ID: ' + pets[i].shelterId.$t + '</p>' +
+                '<p class="modaltext"> Description: ' + pets[i].description.$t + '</p>' +
+                '<p class="modaltext"> Contact: ' + pets[i].contact.email.$t + '</p>' +
+                '<p class="modaltext"> Shelter ID: ' + pets[i].shelterId.$t + '</p>' +
                 '<img class="modal-image" src=' + photo + '>' +
               '</div>' +
             '</div>' +

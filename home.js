@@ -47,21 +47,23 @@
     $('#featuredPet').append(
 
       '<div class="card medium">' +
-        '<div class="card-image feature-image" style="background-image: url('+ photo + ')">'+
+        '<div class="card-image feature-image center" style="background-image: url('+ photo + ')">'+
 
         '</div>' +
-        '<a class="waves-effect waves-light btn modal-trigger valign" href="#modal1">' +
-          '<p>' + data.petfinder.pet.name.$t + '</p>' +
+        '<div class="card-action center">' +
+        '<p class="dogName">' + data.petfinder.pet.name.$t + '</p>' +
+        '<a class="waves-effect waves-light btn modal-trigger" href="#modal1">' +
+          'More Info' +
         '</a>'+
           '<div id="modal1" class="modal">' +
             '<div class="modal-content">' +
               '<h4>' + data.petfinder.pet.name.$t + '</h4>' +
-              '<p> Age: '+ data.petfinder.pet.age.$t + '</p>' +
-              '<p> Size: '+ data.petfinder.pet.size.$t + '</p>' +
-              '<p> Description: '+ data.petfinder.pet.description.$t + '</p>' +
-              '<p> State: '+ data.petfinder.pet.contact.state.$t + '</p>' +
-              '<p> Contact: '+ data.petfinder.pet.contact.email.$t + '</p>' +
-              '<p> Shelter ID: '+ data.petfinder.pet.shelterId.$t + '</p>' +
+              '<p class="modaltext"> Age: '+ data.petfinder.pet.age.$t + '</p>' +
+              '<p class="modaltext"> Size: '+ data.petfinder.pet.size.$t + '</p>' +
+              '<p class="modaltext"> Description: '+ data.petfinder.pet.description.$t + '</p>' +
+              '<p class="modaltext"> State: '+ data.petfinder.pet.contact.state.$t + '</p>' +
+              '<p class="modaltext"> Contact: '+ data.petfinder.pet.contact.email.$t + '</p>' +
+              '<p class="modaltext"> Shelter ID: '+ data.petfinder.pet.shelterId.$t + '</p>' +
               '<img class="modal-image" src=' + photo + '>' +
             '</div>' +
           '</div>' +
