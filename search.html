@@ -20,7 +20,14 @@
           <div>
             <a class="logo" href="index.html">
               <img src="pupLogo_v2.png"></a>
+              <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
             <ul id="nav-mobile" class="right hide-on-med-and-down">
+              <li><a href="index.html">Home</a></li>
+              <li class="active"><a href="search.html">Search</a></li>
+              <li><a href="adopt.html">Adopt</a></li>
+              <li><a href="rescuesearch.html">Shelters</a></li>
+            </ul>
+            <ul class="side-nav" id="mobile-demo">
               <li><a href="index.html">Home</a></li>
               <li class="active"><a href="search.html">Search</a></li>
               <li><a href="adopt.html">Adopt</a></li>
@@ -34,11 +41,11 @@
       <div class="center row container">
         <h4> Enter Your Search Below </h4>
         <form class="col s12" id="search" name="search">
-            <div class="input-field col s3">
+            <div class="input-field col m3 s6">
               <input placeholder="Enter Zip Code (Required)" type="text" class="validate" id="location">
               <label for="Location">Search by Location</label>
             </div>
-            <div class="input-field col s3 select-dropdown">
+            <div class="input-field col m3 s6 select-dropdown">
               <select id="size">
                 <option value="" disabled selected>Search by Size</option>
                 <option value="S">Small</option>
@@ -48,7 +55,7 @@
                 </select>
               <label for="size">Dog Size</label>
             </div>
-            <div class="input-field col s3">
+            <div class="input-field col m3 s6">
               <select id="sex">
                 <option value="" disabled selected>Sex</option>
                 <option value="M">Male</option>
@@ -56,7 +63,7 @@
               </select>
               <label for="size">Sex</label>
             </div>
-            <div class="input-field col s3">
+            <div class="input-field col m3 s6">
               <select id="age">
                 <option value="" disabled selected>Age</option>
                 <option value="Baby">Baby</option>

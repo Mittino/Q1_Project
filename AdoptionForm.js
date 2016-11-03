@@ -4,7 +4,7 @@
 
   $(document).ready(function(){
     $('select').material_select();
-
+    $(".button-collapse").sideNav();
     $('#adoptionForm').on('submit', function(event){
       event.preventDefault();
       submitApplication();
