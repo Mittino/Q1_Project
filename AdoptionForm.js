@@ -9,6 +9,7 @@
       event.preventDefault();
       submitApplication();
     });
+    $('#name').focus();
 
   });
 

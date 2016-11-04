@@ -7,6 +7,7 @@ $(document).ready(function(){
     buildData();
   });
    $(".button-collapse").sideNav();
+   $('#location').focus();
 });
 
 
