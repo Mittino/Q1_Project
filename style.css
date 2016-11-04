@@ -22,17 +22,15 @@ h4{
   font-family: 'Noto Sans', sans-serif;
   font-size: 16px;
 }
-.page-footer{
+footer.page-footer{
   background-color: #086788;
-  height: 70px;
 }
-
+footer.page-footer .footer-copyright{
+  background-color: #086788;
+}
 .nav-wrapper{
   background-color: #086788;
   color: #FFF1D0;
-}
-.navmargin{
-  margin-top: 20px;
 }
 
 .logo img{
