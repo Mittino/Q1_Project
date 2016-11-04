@@ -20,7 +20,6 @@
       key: apiKey,
       animal: "dog",
     };
-    localStorage.getItem('location').length > 0)
       info.location = localStorage.getItem('location');
     getResults(info);
   }
@@ -59,7 +58,7 @@
         '<div class="card-action center">' +
         '<p class="dogName"> Featured Pet:<br>' + data.petfinder.pet.name.$t + '</p>' +
         '<a class="waves-effect waves-light btn modal-trigger" href="#modal1">' +
-          'More' +
+          'More Info' +
         '</a>'+
           '<div id="modal1" class="modal">' +
             '<div class="modal-content">' +
