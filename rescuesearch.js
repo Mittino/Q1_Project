@@ -48,24 +48,33 @@ $(document).ready(function(){
     }
 
     function buildResults(data){
+      $('#shelters').empty();
       console.log(data);
       var i;
+      var template = [];
       for (i=0; i<data.length; i++){
-
-        $('#shelters').append(
-
+        template.push(
           '<div class="col s12 m6">' +
-          '<div class="card horizontal">' +
-            '<div class="card-stacked">' +
-              '<div class="card-content">' +
-                '<h4>'+ data[i].name.$t + '</h4>' +
-                '<p class="text"> City: '+ data[i].city.$t + '</p>' +
-                '<p class="text"> Email: '+ data[i].email.$t + '</p>' +
-                '<p class="text"> Phone: '+ data[i].phone.$t + '</p>' +
-                '<p class="text"> Shelter ID: '+ data[i].id.$t + '</p>' +
+            '<div class="card horizontal">' +
+              '<div class="card-stacked">' +
+                '<div class="card-content">' +
+                  '<h4>'+ data[i].name.$t + '</h4>'
+        );
+        if (data[i].city.$t) {
+          template.push('<p class="text"> City: '+ data[i].city.$t + '</p>');
+        } if (data[i].email.$t){
+          template.push('<p class="text"> Email: '+ data[i].email.$t + '</p>');
+        } if (data[i].phone.$t){
+          template.push('<p class="text"> Phone: '+ data[i].phone.$t + '</p>');
+        } if (data[i].id.$t){
+          template.push('<p class="text"> Shelter ID: '+ data[i].id.$t + '</p>');
+        }
+        template.push(
+                '</div>' +
               '</div>' +
             '</div>' +
-          '</div>' +
-        '</div>' );
+          '</div>'
+        );
       }
+      $('#shelters').append(template.join(''));
     }
