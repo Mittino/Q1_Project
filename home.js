@@ -20,9 +20,8 @@
       key: apiKey,
       animal: "dog",
     };
-    if (localStorage.getItem('location').length > 0){
+    localStorage.getItem('location').length > 0)
       info.location = localStorage.getItem('location');
-    }
     getResults(info);
   }
   function getResults(info){
