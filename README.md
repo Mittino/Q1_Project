@@ -24,3 +24,5 @@ Adopt: The adopt page is a form to submit an application to adopt a dog.
 Shelters: This page allows users to input a zip code to find nearby shelters.
 
 ![](Screenshots/Screen Shot 2016-11-03 at 8.37.39 PM.png)
+
+[](https://www.youtube.com/watch?v=VbvUVaUlIgo&feature=youtu.be)
