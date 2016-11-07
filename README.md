@@ -1,4 +1,4 @@
-Adopt-a-Pup is a website displaying search results for adoptable dogs using the PetFinder API.
+Adopt-a-Pup (http://adoptapup.mittino.surge.sh/index.html) is a website displaying search results for adoptable dogs using the PetFinder API.
  (https://www.petfinder.com/)
  
 Home Page: Displays a welcome message and a featured pet pulled from the getRandom API call. Users can click on "More Info" to learn more about the featured pet.
@@ -17,7 +17,7 @@ At the bottom of the search results the user can load more search results by cli
 
 ![](Screenshots/Screen Shot 2016-11-03 at 8.38.30 PM.png)
 
-Adopt: The adopt page is a form to submit an application to adopt a dog.
+Adopt: The adopt page is a form to submit an application to adopt a dog. (*Note: This is not currently being sent anywhere)
 
 ![](Screenshots/Screen Shot 2016-11-03 at 8.35.30 PM.png)
 
